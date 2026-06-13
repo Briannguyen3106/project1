@@ -1,0 +1,11 @@
+{
+  "episodes":5000.0,
+  "alpha":0.1,
+  "gamma":0.9,
+  "epsilon_start":1.0,
+  "epsilon_end":0.01,
+  "epsilon_decay_fraction":0.8,
+  "max_steps":200.0,
+  "eval_interval":200.0,
+  "eval_episodes":100.0
+}

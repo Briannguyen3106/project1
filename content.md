@@ -111,7 +111,7 @@ Toán tử Bellman optimality là toán tử co (contraction mapping) trong khô
 
 | Tham số | Giá trị | Lý do |
 |---|---|---|
-| $\gamma$ | 0.99 | Đánh giá cao reward dài hạn |
+| $\gamma$ | 0.9 | Đánh giá cao reward dài hạn |
 | $\alpha$ | 0.1 (mặc định) | Ổn định; thay đổi trong sensitivity analysis |
 | $\epsilon$ (Cliff) | 0.1 cố định | Để giữ hiện tượng On vs Off-policy |
 | $\epsilon$ (Frozen, Taxi) | Decay từ 1.0 → 0.01 | Lịch thực nghiệm thực dụng; không được gọi là GLIE vì giới hạn dưới khác 0 |

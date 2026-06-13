@@ -1,0 +1,3121 @@
+algorithm,seed,episode,cumulative_steps,eval_return,eval_return_std,eval_success_rate,eval_episode_length,setting
+SARSA,0,1,2,0.0,0.0,0.0,7.78,deterministic
+SARSA,0,200,1706,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,400,3111,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,600,4654,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,800,6238,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1000,7696,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1200,9190,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1400,10679,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1600,12170,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1800,13667,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,2000,15158,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,2200,16576,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,2400,17950,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,2600,19292,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,2800,20656,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,3000,22020,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,3200,23320,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,3400,24621,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,3600,25869,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,3800,27108,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,4000,28341,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,4200,29553,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,4400,30765,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,4600,31968,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,4800,33170,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,5000,34382,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1,12,0.02,0.14070529413628965,0.02,7.18,deterministic
+SARSA,1,200,1581,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,400,3161,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,600,4711,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,800,6249,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1000,7704,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1200,9078,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1400,10487,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1600,11918,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,1800,13306,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,2000,14706,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,2200,16139,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,2400,17564,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,2600,18957,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,2800,20351,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,3000,21668,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,3200,22982,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,3400,24268,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,3600,25516,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,3800,26759,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,4000,27984,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,4200,29187,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,4400,30387,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,4600,31584,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,4800,32795,1.0,0.0,1.0,6.0,deterministic
+SARSA,1,5000,34003,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1,5,0.02,0.14070529413628968,0.02,8.28,deterministic
+SARSA,2,200,1496,0.03,0.1714466079977653,0.03,7.57,deterministic
+SARSA,2,400,3052,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,600,4674,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,800,6273,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1000,7838,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1200,9330,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1400,10771,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1600,12240,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,1800,13727,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,2000,15189,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,2200,16531,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,2400,17937,0.0,0.0,0.0,100.0,deterministic
+SARSA,2,2600,19319,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,2800,20733,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,3000,22091,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,3200,23383,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,3400,24680,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,3600,25925,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,3800,27151,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,4000,28357,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,4200,29572,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,4400,30774,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,4600,31981,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,4800,33184,1.0,0.0,1.0,6.0,deterministic
+SARSA,2,5000,34396,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1,11,0.01,0.09999999999999999,0.01,6.39,deterministic
+SARSA,3,200,1504,0.03,0.1714466079977653,0.03,8.04,deterministic
+SARSA,3,400,3160,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,600,4717,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,800,6222,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1000,7769,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1200,9401,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1400,11049,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1600,12636,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,1800,14160,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,2000,15670,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,2200,17212,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,2400,18697,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,2600,20100,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,2800,21442,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,3000,22777,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,3200,24075,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,3400,25429,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,3600,26693,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,3800,27929,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,4000,29171,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,4200,30386,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,4400,31590,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,4600,32797,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,4800,34001,1.0,0.0,1.0,6.0,deterministic
+SARSA,3,5000,35205,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1,6,0.01,0.09999999999999999,0.01,7.97,deterministic
+SARSA,4,200,1716,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,400,3116,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,600,4656,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,800,6160,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1000,7632,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1200,9096,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1400,10567,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1600,12151,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,1800,13544,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,2000,14965,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,2200,16414,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,2400,17873,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,2600,19237,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,2800,20585,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,3000,21889,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,3200,23123,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,3400,24375,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,3600,25680,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,3800,26920,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,4000,28108,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,4200,29318,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,4400,30514,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,4600,31715,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,4800,32923,1.0,0.0,1.0,6.0,deterministic
+SARSA,4,5000,34129,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1,4,0.0,0.0,0.0,7.66,deterministic
+SARSA,5,200,1581,0.04,0.19694638556693236,0.04,7.37,deterministic
+SARSA,5,400,3123,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,600,4694,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,800,6259,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1000,7751,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1200,9214,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1400,10668,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1600,12178,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,1800,13702,0.0,0.0,0.0,100.0,deterministic
+SARSA,5,2000,15149,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,2200,16620,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,2400,18046,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,2600,19446,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,2800,20833,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,3000,22140,0.0,0.0,0.0,100.0,deterministic
+SARSA,5,3200,23437,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,3400,24743,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,3600,26006,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,3800,27221,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,4000,28444,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,4200,29653,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,4400,30860,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,4600,32061,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,4800,33261,1.0,0.0,1.0,6.0,deterministic
+SARSA,5,5000,34470,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1,2,0.0,0.0,0.0,8.47,deterministic
+SARSA,6,200,1666,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,400,3213,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,600,4708,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,800,6158,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1000,7667,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1200,9161,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1400,10669,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1600,12123,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,1800,13513,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,2000,14916,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,2200,16308,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,2400,17835,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,2600,19257,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,2800,20535,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,3000,21846,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,3200,23152,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,3400,24422,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,3600,25653,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,3800,26907,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,4000,28112,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,4200,29318,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,4400,30533,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,4600,31737,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,4800,32952,1.0,0.0,1.0,6.0,deterministic
+SARSA,6,5000,34160,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,1,12,0.01,0.09999999999999999,0.01,7.08,deterministic
+SARSA,7,200,1619,0.47,0.5016135580465918,0.47,7.12,deterministic
+SARSA,7,400,3174,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,600,4633,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,800,6244,0.0,0.0,0.0,100.0,deterministic
+SARSA,7,1000,7651,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,1200,9276,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,1400,10848,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,1600,12382,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,1800,13771,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,2000,15141,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,2200,16532,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,2400,17901,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,2600,19212,0.0,0.0,0.0,100.0,deterministic
+SARSA,7,2800,20527,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,3000,21867,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,3200,23105,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,3400,24404,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,3600,25680,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,3800,26956,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,4000,28184,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,4200,29389,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,4400,30596,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,4600,31808,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,4800,33017,1.0,0.0,1.0,6.0,deterministic
+SARSA,7,5000,34220,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1,8,0.02,0.14070529413628968,0.02,7.66,deterministic
+SARSA,8,200,1303,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,400,2794,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,600,4484,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,800,5967,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1000,7598,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1200,9286,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1400,10824,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1600,12370,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,1800,13905,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,2000,15251,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,2200,16682,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,2400,18099,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,2600,19415,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,2800,20812,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,3000,22095,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,3200,23419,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,3400,24669,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,3600,25955,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,3800,27167,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,4000,28387,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,4200,29596,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,4400,30795,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,4600,31996,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,4800,33200,1.0,0.0,1.0,6.0,deterministic
+SARSA,8,5000,34402,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1,3,0.03,0.1714466079977653,0.03,7.98,deterministic
+SARSA,9,200,1457,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,400,2891,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,600,4380,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,800,6018,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1000,7594,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1200,9137,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1400,10648,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1600,12175,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,1800,13612,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,2000,14961,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,2200,16325,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,2400,17753,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,2600,19166,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,2800,20599,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,3000,22022,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,3200,23410,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,3400,24783,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,3600,26067,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,3800,27312,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,4000,28531,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,4200,29729,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,4400,30921,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,4600,32125,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,4800,33334,1.0,0.0,1.0,6.0,deterministic
+SARSA,9,5000,34531,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1,9,0.02,0.14070529413628968,0.02,7.23,deterministic
+SARSA,10,200,1444,0.07,0.2564323999762428,0.07,7.25,deterministic
+SARSA,10,400,3044,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,600,4403,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,800,5784,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1000,7175,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1200,8699,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1400,10233,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1600,11757,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,1800,13066,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,2000,14451,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,2200,15894,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,2400,17266,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,2600,18617,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,2800,19954,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,3000,21257,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,3200,22578,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,3400,23911,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,3600,25168,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,3800,26432,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,4000,27648,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,4200,28849,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,4400,30054,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,4600,31260,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,4800,32464,1.0,0.0,1.0,6.0,deterministic
+SARSA,10,5000,33665,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,1,3,0.01,0.09999999999999999,0.01,7.43,deterministic
+SARSA,11,200,1397,0.01,0.09999999999999999,0.01,7.3,deterministic
+SARSA,11,400,2902,0.06,0.23868325657594203,0.06,6.99,deterministic
+SARSA,11,600,4389,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,800,5773,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,1000,7238,0.0,0.0,0.0,100.0,deterministic
+SARSA,11,1200,8706,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,1400,10138,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,1600,11510,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,1800,13035,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,2000,14510,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,2200,15869,0.0,0.0,0.0,100.0,deterministic
+SARSA,11,2400,17214,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,2600,18514,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,2800,19912,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,3000,21222,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,3200,22545,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,3400,23846,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,3600,25091,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,3800,26321,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,4000,27527,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,4200,28727,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,4400,29932,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,4600,31139,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,4800,32344,1.0,0.0,1.0,6.0,deterministic
+SARSA,11,5000,33551,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1,7,0.0,0.0,0.0,7.73,deterministic
+SARSA,12,200,1655,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,400,3118,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,600,4714,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,800,6144,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1000,7597,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1200,9113,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1400,10538,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1600,11945,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,1800,13442,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,2000,14891,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,2200,16309,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,2400,17614,0.0,0.0,0.0,100.0,deterministic
+SARSA,12,2600,18943,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,2800,20288,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,3000,21680,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,3200,23022,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,3400,24281,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,3600,25506,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,3800,26742,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,4000,27932,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,4200,29130,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,4400,30331,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,4600,31526,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,4800,32730,1.0,0.0,1.0,6.0,deterministic
+SARSA,12,5000,33936,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1,17,0.03,0.1714466079977653,0.03,7.13,deterministic
+SARSA,13,200,1438,0.08,0.27265992434429076,0.08,7.05,deterministic
+SARSA,13,400,2925,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,600,4399,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,800,5796,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1000,7343,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1200,8783,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1400,10297,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1600,11702,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,1800,13120,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,2000,14552,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,2200,15994,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,2400,17359,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,2600,18762,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,2800,20115,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,3000,21452,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,3200,22735,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,3400,23991,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,3600,25273,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,3800,26515,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,4000,27719,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,4200,28922,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,4400,30121,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,4600,31313,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,4800,32514,1.0,0.0,1.0,6.0,deterministic
+SARSA,13,5000,33717,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1,3,0.03,0.1714466079977653,0.03,8.49,deterministic
+SARSA,14,200,1506,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,400,2986,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,600,4553,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,800,5976,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1000,7331,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1200,8828,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1400,10322,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1600,11802,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,1800,13324,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,2000,14715,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,2200,16107,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,2400,17513,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,2600,18829,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,2800,20184,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,3000,21559,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,3200,22799,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,3400,24090,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,3600,25353,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,3800,26582,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,4000,27814,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,4200,29020,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,4400,30219,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,4600,31417,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,4800,32618,1.0,0.0,1.0,6.0,deterministic
+SARSA,14,5000,33817,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1,3,0.0,0.0,0.0,7.9,deterministic
+SARSA,15,200,1479,0.03,0.1714466079977653,0.03,7.18,deterministic
+SARSA,15,400,3087,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,600,4707,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,800,6093,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1000,7557,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1200,9050,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1400,10636,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1600,12212,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,1800,13646,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,2000,15130,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,2200,16479,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,2400,17831,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,2600,19154,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,2800,20520,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,3000,21862,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,3200,23187,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,3400,24469,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,3600,25779,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,3800,27001,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,4000,28219,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,4200,29425,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,4400,30623,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,4600,31834,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,4800,33044,1.0,0.0,1.0,6.0,deterministic
+SARSA,15,5000,34244,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1,2,0.0,0.0,0.0,7.74,deterministic
+SARSA,16,200,1541,0.21,0.40936018074033237,0.21,7.12,deterministic
+SARSA,16,400,3061,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,600,4565,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,800,6144,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1000,7645,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1200,9107,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1400,10533,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1600,12036,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,1800,13520,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,2000,14853,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,2200,16278,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,2400,17694,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,2600,19130,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,2800,20460,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,3000,21812,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,3200,23123,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,3400,24375,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,3600,25625,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,3800,26835,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,4000,28053,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,4200,29253,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,4400,30458,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,4600,31657,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,4800,32861,1.0,0.0,1.0,6.0,deterministic
+SARSA,16,5000,34065,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1,4,0.01,0.09999999999999999,0.01,7.2,deterministic
+SARSA,17,200,1470,0.05,0.2190429135575903,0.05,6.83,deterministic
+SARSA,17,400,2970,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,600,4357,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,800,5712,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1000,7294,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1200,8759,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1400,10154,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1600,11605,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,1800,13050,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,2000,14501,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,2200,15914,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,2400,17307,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,2600,18685,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,2800,19993,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,3000,21372,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,3200,22647,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,3400,23922,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,3600,25170,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,3800,26387,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,4000,27612,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,4200,28826,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,4400,30033,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,4600,31234,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,4800,32441,1.0,0.0,1.0,6.0,deterministic
+SARSA,17,5000,33646,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1,2,0.04,0.19694638556693236,0.04,8.12,deterministic
+SARSA,18,200,1657,0.14,0.348735088019777,0.14,7.57,deterministic
+SARSA,18,400,3373,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,600,4872,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,800,6452,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1000,7953,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1200,9473,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1400,10963,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1600,12458,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,1800,14044,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,2000,15576,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,2200,17009,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,2400,18364,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,2600,19728,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,2800,21081,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,3000,22366,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,3200,23719,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,3400,24974,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,3600,26241,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,3800,27458,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,4000,28667,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,4200,29868,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,4400,31070,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,4600,32280,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,4800,33481,1.0,0.0,1.0,6.0,deterministic
+SARSA,18,5000,34693,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1,7,0.02,0.14070529413628965,0.02,7.63,deterministic
+SARSA,19,200,1537,0.01,0.09999999999999999,0.01,7.64,deterministic
+SARSA,19,400,3178,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,600,4866,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,800,6294,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1000,7755,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1200,9291,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1400,10835,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1600,12272,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,1800,13763,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,2000,15226,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,2200,16700,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,2400,18142,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,2600,19553,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,2800,20922,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,3000,22254,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,3200,23573,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,3400,24823,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,3600,26081,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,3800,27303,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,4000,28527,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,4200,29737,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,4400,30941,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,4600,32135,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,4800,33342,1.0,0.0,1.0,6.0,deterministic
+SARSA,19,5000,34558,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1,6,0.02,0.14070529413628968,0.02,7.84,deterministic
+SARSA,20,200,1662,0.18,0.38612291966536916,0.18,8.14,deterministic
+SARSA,20,400,3234,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,600,4638,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,800,6177,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1000,7683,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1200,9305,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1400,10795,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1600,12249,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,1800,13758,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,2000,15212,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,2200,16516,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,2400,17987,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,2600,19344,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,2800,20688,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,3000,22003,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,3200,23284,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,3400,24578,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,3600,25821,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,3800,27041,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,4000,28256,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,4200,29458,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,4400,30663,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,4600,31871,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,4800,33081,1.0,0.0,1.0,6.0,deterministic
+SARSA,20,5000,34278,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1,8,0.01,0.09999999999999999,0.01,7.81,deterministic
+SARSA,21,200,1354,0.06,0.238683256575942,0.06,8.23,deterministic
+SARSA,21,400,2839,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,600,4272,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,800,5701,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1000,7200,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1200,8683,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1400,10056,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1600,11475,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,1800,13011,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,2000,14434,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,2200,15799,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,2400,17178,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,2600,18520,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,2800,19869,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,3000,21214,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,3200,22526,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,3400,23806,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,3600,25058,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,3800,26306,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,4000,27507,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,4200,28709,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,4400,29913,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,4600,31122,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,4800,32329,1.0,0.0,1.0,6.0,deterministic
+SARSA,21,5000,33526,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1,4,0.02,0.14070529413628965,0.02,8.64,deterministic
+SARSA,22,200,1534,0.15,0.3588702812826367,0.15,7.72,deterministic
+SARSA,22,400,3095,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,600,4684,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,800,6206,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1000,7712,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1200,9313,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1400,10799,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1600,12244,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,1800,13729,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,2000,15123,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,2200,16431,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,2400,17784,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,2600,19176,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,2800,20606,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,3000,21987,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,3200,23341,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,3400,24656,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,3600,25960,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,3800,27207,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,4000,28413,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,4200,29619,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,4400,30824,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,4600,32025,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,4800,33229,1.0,0.0,1.0,6.0,deterministic
+SARSA,22,5000,34429,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1,10,0.03,0.1714466079977653,0.03,7.71,deterministic
+SARSA,23,200,1598,0.05,0.2190429135575903,0.05,7.12,deterministic
+SARSA,23,400,3040,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,600,4427,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,800,6145,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1000,7645,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1200,9093,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1400,10652,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1600,11969,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,1800,13469,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,2000,14798,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,2200,16225,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,2400,17671,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,2600,19043,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,2800,20385,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,3000,21683,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,3200,22958,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,3400,24266,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,3600,25517,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,3800,26738,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,4000,27943,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,4200,29139,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,4400,30340,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,4600,31538,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,4800,32738,1.0,0.0,1.0,6.0,deterministic
+SARSA,23,5000,33948,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1,5,0.02,0.14070529413628968,0.02,7.98,deterministic
+SARSA,24,200,1631,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,400,3135,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,600,4623,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,800,6191,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1000,7711,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1200,9233,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1400,10662,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1600,12156,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,1800,13591,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,2000,15019,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,2200,16364,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,2400,17719,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,2600,19088,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,2800,20409,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,3000,21763,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,3200,23084,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,3400,24358,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,3600,25651,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,3800,26859,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,4000,28080,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,4200,29278,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,4400,30484,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,4600,31687,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,4800,32898,1.0,0.0,1.0,6.0,deterministic
+SARSA,24,5000,34104,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1,24,0.02,0.14070529413628968,0.02,8.08,deterministic
+SARSA,25,200,1660,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,400,3250,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,600,4653,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,800,6104,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1000,7537,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1200,9065,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1400,10456,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1600,11964,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,1800,13432,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,2000,14919,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,2200,16382,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,2400,17808,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,2600,19263,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,2800,20583,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,3000,21901,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,3200,23194,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,3400,24508,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,3600,25765,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,3800,26994,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,4000,28206,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,4200,29396,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,4400,30594,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,4600,31805,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,4800,33005,1.0,0.0,1.0,6.0,deterministic
+SARSA,25,5000,34196,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1,4,0.02,0.14070529413628968,0.02,8.23,deterministic
+SARSA,26,200,1607,0.24,0.42923469599092784,0.24,6.91,deterministic
+SARSA,26,400,3156,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,600,4644,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,800,6111,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1000,7513,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1200,9051,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1400,10580,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1600,12194,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,1800,13644,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,2000,14967,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,2200,16452,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,2400,17890,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,2600,19273,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,2800,20580,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,3000,21940,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,3200,23248,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,3400,24546,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,3600,25781,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,3800,26997,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,4000,28194,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,4200,29396,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,4400,30608,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,4600,31812,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,4800,33029,1.0,0.0,1.0,6.0,deterministic
+SARSA,26,5000,34233,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1,2,0.01,0.09999999999999999,0.01,8.86,deterministic
+SARSA,27,200,1621,0.04,0.19694638556693236,0.04,8.2,deterministic
+SARSA,27,400,3007,0.03,0.1714466079977653,0.03,7.37,deterministic
+SARSA,27,600,4641,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,800,6084,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1000,7609,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1200,9083,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1400,10542,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1600,12104,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,1800,13498,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,2000,14868,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,2200,16359,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,2400,17813,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,2600,19149,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,2800,20434,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,3000,21762,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,3200,23110,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,3400,24372,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,3600,25652,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,3800,26891,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,4000,28114,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,4200,29321,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,4400,30535,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,4600,31743,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,4800,32948,1.0,0.0,1.0,6.0,deterministic
+SARSA,27,5000,34149,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1,11,0.02,0.14070529413628965,0.02,7.77,deterministic
+SARSA,28,200,1473,0.04,0.19694638556693236,0.04,7.53,deterministic
+SARSA,28,400,3034,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,600,4531,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,800,5965,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1000,7417,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1200,8876,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1400,10490,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1600,11938,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,1800,13353,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,2000,14788,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,2200,16097,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,2400,17489,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,2600,18846,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,2800,20188,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,3000,21482,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,3200,22795,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,3400,24044,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,3600,25306,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,3800,26538,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,4000,27728,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,4200,28932,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,4400,30131,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,4600,31338,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,4800,32545,1.0,0.0,1.0,6.0,deterministic
+SARSA,28,5000,33755,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1,5,0.02,0.14070529413628965,0.02,8.11,deterministic
+SARSA,29,200,1394,0.21,0.40936018074033237,0.21,6.97,deterministic
+SARSA,29,400,2882,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,600,4384,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,800,5822,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1000,7257,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1200,8676,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1400,10097,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1600,11595,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,1800,13070,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,2000,14409,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,2200,15825,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,2400,17184,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,2600,18654,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,2800,20054,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,3000,21452,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,3200,22775,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,3400,24003,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,3600,25290,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,3800,26523,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,4000,27745,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,4200,28956,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,4400,30164,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,4600,31365,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,4800,32572,1.0,0.0,1.0,6.0,deterministic
+SARSA,29,5000,33790,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1,2,0.0,0.0,0.0,7.78,deterministic
+Expected SARSA,0,200,1738,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,400,3192,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,600,4739,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,800,6308,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1000,7767,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1200,9268,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1400,10616,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1600,12014,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,1800,13514,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,2000,14918,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,2200,16358,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,2400,17716,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,2600,19080,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,2800,20416,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,3000,21765,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,3200,23049,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,3400,24343,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,3600,25588,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,3800,26831,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,4000,28066,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,4200,29279,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,4400,30495,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,4600,31696,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,4800,32896,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,0,5000,34111,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1,12,0.02,0.14070529413628965,0.02,7.18,deterministic
+Expected SARSA,1,200,1581,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,400,3134,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,600,4611,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,800,6147,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1000,7680,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1200,9054,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1400,10511,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1600,11867,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,1800,13241,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,2000,14586,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,2200,16036,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,2400,17467,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,2600,18868,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,2800,20251,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,3000,21582,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,3200,22891,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,3400,24164,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,3600,25403,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,3800,26636,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,4000,27866,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,4200,29071,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,4400,30277,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,4600,31470,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,4800,32677,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,1,5000,33889,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1,5,0.02,0.14070529413628968,0.02,8.28,deterministic
+Expected SARSA,2,200,1496,0.03,0.1714466079977653,0.03,7.57,deterministic
+Expected SARSA,2,400,2987,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,600,4563,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,800,6118,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1000,7715,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1200,9117,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1400,10445,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1600,11925,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,1800,13420,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,2000,14930,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,2200,16223,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,2400,17582,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,2600,18921,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,2800,20317,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,3000,21679,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,3200,22993,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,3400,24292,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,3600,25558,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,3800,26746,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,4000,27969,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,4200,29180,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,4400,30382,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,4600,31589,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,4800,32791,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,2,5000,34006,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1,11,0.01,0.09999999999999999,0.01,6.39,deterministic
+Expected SARSA,3,200,1473,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,400,2968,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,600,4515,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,800,6040,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1000,7540,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1200,9200,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1400,10793,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1600,12433,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,1800,13932,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,2000,15403,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,2200,16943,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,2400,18422,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,2600,19900,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,2800,21225,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,3000,22656,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,3200,23960,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,3400,25214,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,3600,26476,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,3800,27715,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,4000,28951,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,4200,30153,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,4400,31350,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,4600,32552,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,4800,33761,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,3,5000,34973,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1,6,0.01,0.09999999999999999,0.01,7.97,deterministic
+Expected SARSA,4,200,1716,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,400,3128,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,600,4682,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,800,6167,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1000,7652,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1200,9159,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1400,10676,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1600,12087,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,1800,13381,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,2000,14732,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,2200,16089,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,2400,17481,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,2600,18888,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,2800,20202,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,3000,21548,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,3200,22796,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,3400,24068,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,3600,25312,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,3800,26578,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,4000,27775,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,4200,28983,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,4400,30189,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,4600,31392,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,4800,32603,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,4,5000,33811,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1,4,0.0,0.0,0.0,7.66,deterministic
+Expected SARSA,5,200,1575,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,400,3191,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,600,4643,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,800,6202,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1000,7648,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1200,9098,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1400,10433,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1600,11845,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,1800,13304,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,2000,14660,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,2200,16028,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,2400,17411,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,2600,18771,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,2800,20073,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,3000,21467,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,3200,22792,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,3400,24071,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,3600,25316,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,3800,26546,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,4000,27732,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,4200,28932,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,4400,30138,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,4600,31340,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,4800,32536,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,5,5000,33744,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1,2,0.0,0.0,0.0,8.47,deterministic
+Expected SARSA,6,200,1688,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,400,3143,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,600,4682,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,800,6055,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1000,7470,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1200,8918,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1400,10420,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1600,11853,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,1800,13261,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,2000,14680,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,2200,15979,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,2400,17388,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,2600,18839,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,2800,20190,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,3000,21499,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,3200,22740,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,3400,24024,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,3600,25241,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,3800,26486,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,4000,27713,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,4200,28921,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,4400,30136,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,4600,31340,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,4800,32538,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,6,5000,33743,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1,12,0.01,0.09999999999999999,0.01,7.08,deterministic
+Expected SARSA,7,200,1603,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,400,3186,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,600,4643,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,800,6244,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1000,7631,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1200,9226,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1400,10642,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1600,12065,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,1800,13484,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,2000,14874,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,2200,16218,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,2400,17570,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,2600,18871,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,2800,20181,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,3000,21505,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,3200,22795,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,3400,24062,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,3600,25294,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,3800,26534,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,4000,27756,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,4200,28961,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,4400,30161,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,4600,31369,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,4800,32559,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,7,5000,33766,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1,8,0.02,0.14070529413628968,0.02,7.66,deterministic
+Expected SARSA,8,200,1307,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,400,2728,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,600,4302,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,800,5767,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1000,7311,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1200,9031,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1400,10526,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1600,12043,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,1800,13533,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,2000,15023,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,2200,16510,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,2400,17932,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,2600,19271,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,2800,20720,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,3000,22072,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,3200,23386,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,3400,24718,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,3600,26047,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,3800,27311,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,4000,28544,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,4200,29739,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,4400,30945,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,4600,32158,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,4800,33368,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,8,5000,34570,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1,3,0.03,0.1714466079977653,0.03,7.98,deterministic
+Expected SARSA,9,200,1460,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,400,2896,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,600,4396,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,800,6038,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1000,7572,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1200,9104,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1400,10532,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1600,12023,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,1800,13445,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,2000,14806,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,2200,16131,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,2400,17563,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,2600,18909,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,2800,20271,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,3000,21581,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,3200,22941,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,3400,24238,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,3600,25506,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,3800,26742,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,4000,27955,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,4200,29155,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,4400,30354,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,4600,31555,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,4800,32751,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,9,5000,33948,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1,9,0.02,0.14070529413628968,0.02,7.23,deterministic
+Expected SARSA,10,200,1444,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,400,3058,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,600,4420,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,800,5828,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1000,7186,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1200,8675,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1400,10140,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1600,11681,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,1800,12973,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,2000,14330,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,2200,15742,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,2400,17122,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,2600,18366,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,2800,19690,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,3000,21008,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,3200,22301,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,3400,23547,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,3600,24802,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,3800,26033,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,4000,27231,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,4200,28440,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,4400,29646,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,4600,30843,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,4800,32048,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,10,5000,33250,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1,3,0.01,0.09999999999999999,0.01,7.43,deterministic
+Expected SARSA,11,200,1397,0.01,0.09999999999999999,0.01,7.3,deterministic
+Expected SARSA,11,400,2935,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,600,4356,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,800,5751,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1000,7197,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1200,8680,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1400,10208,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1600,11590,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,1800,13058,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,2000,14517,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,2200,15851,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,2400,17145,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,2600,18459,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,2800,19837,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,3000,21118,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,3200,22444,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,3400,23768,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,3600,25016,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,3800,26263,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,4000,27474,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,4200,28678,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,4400,29882,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,4600,31091,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,4800,32296,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,11,5000,33503,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1,7,0.0,0.0,0.0,7.73,deterministic
+Expected SARSA,12,200,1655,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,400,3127,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,600,4696,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,800,6139,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1000,7541,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1200,9134,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1400,10629,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1600,11999,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,1800,13477,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,2000,14868,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,2200,16302,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,2400,17610,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,2600,18947,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,2800,20246,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,3000,21575,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,3200,22928,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,3400,24182,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,3600,25414,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,3800,26652,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,4000,27865,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,4200,29068,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,4400,30271,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,4600,31465,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,4800,32669,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,12,5000,33876,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1,17,0.03,0.1714466079977653,0.03,7.13,deterministic
+Expected SARSA,13,200,1441,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,400,2839,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,600,4356,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,800,5775,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1000,7269,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1200,8669,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1400,10139,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1600,11525,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,1800,12888,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,2000,14321,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,2200,15710,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,2400,17062,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,2600,18438,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,2800,19799,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,3000,21115,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,3200,22406,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,3400,23688,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,3600,24942,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,3800,26170,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,4000,27375,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,4200,28586,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,4400,29781,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,4600,30978,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,4800,32172,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,13,5000,33373,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1,3,0.03,0.1714466079977653,0.03,8.49,deterministic
+Expected SARSA,14,200,1533,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,400,2986,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,600,4561,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,800,5961,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1000,7317,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1200,8836,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1400,10301,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1600,11731,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,1800,13297,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,2000,14644,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,2200,16054,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,2400,17445,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,2600,18741,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,2800,20098,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,3000,21435,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,3200,22724,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,3400,24025,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,3600,25308,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,3800,26524,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,4000,27751,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,4200,28958,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,4400,30159,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,4600,31357,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,4800,32558,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,14,5000,33757,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1,3,0.0,0.0,0.0,7.9,deterministic
+Expected SARSA,15,200,1491,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,400,2978,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,600,4619,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,800,6009,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1000,7422,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1200,8934,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1400,10485,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1600,12057,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,1800,13553,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,2000,15034,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,2200,16489,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,2400,17916,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,2600,19278,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,2800,20638,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,3000,21997,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,3200,23351,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,3400,24647,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,3600,25960,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,3800,27215,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,4000,28433,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,4200,29635,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,4400,30840,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,4600,32055,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,4800,33264,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,15,5000,34473,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1,2,0.0,0.0,0.0,7.74,deterministic
+Expected SARSA,16,200,1579,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,400,3061,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,600,4570,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,800,6158,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1000,7654,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1200,9107,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1400,10458,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1600,11841,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,1800,13254,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,2000,14544,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,2200,15915,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,2400,17305,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,2600,18658,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,2800,19965,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,3000,21308,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,3200,22583,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,3400,23833,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,3600,25119,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,3800,26359,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,4000,27592,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,4200,28782,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,4400,29984,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,4600,31182,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,4800,32382,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,16,5000,33589,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1,4,0.01,0.09999999999999999,0.01,7.2,deterministic
+Expected SARSA,17,200,1515,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,400,2933,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,600,4317,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,800,5791,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1000,7349,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1200,8848,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1400,10247,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1600,11719,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,1800,13204,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,2000,14714,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,2200,16109,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,2400,17449,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,2600,18858,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,2800,20165,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,3000,21442,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,3200,22745,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,3400,24045,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,3600,25304,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,3800,26543,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,4000,27762,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,4200,28972,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,4400,30159,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,4600,31368,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,4800,32573,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,17,5000,33781,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1,2,0.04,0.19694638556693236,0.04,8.12,deterministic
+Expected SARSA,18,200,1657,0.14,0.348735088019777,0.14,7.57,deterministic
+Expected SARSA,18,400,3316,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,600,4742,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,800,6324,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1000,7760,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1200,9198,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1400,10730,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1600,12208,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,1800,13603,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,2000,14994,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,2200,16424,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,2400,17798,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,2600,19104,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,2800,20491,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,3000,21829,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,3200,23111,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,3400,24420,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,3600,25675,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,3800,26899,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,4000,28109,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,4200,29308,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,4400,30510,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,4600,31712,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,4800,32922,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,18,5000,34129,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1,7,0.02,0.14070529413628965,0.02,7.63,deterministic
+Expected SARSA,19,200,1516,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,400,3128,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,600,4814,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,800,6310,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1000,7787,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1200,9340,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1400,10946,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1600,12326,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,1800,13930,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,2000,15443,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,2200,16901,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,2400,18315,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,2600,19833,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,2800,21192,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,3000,22612,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,3200,23903,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,3400,25198,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,3600,26454,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,3800,27704,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,4000,28923,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,4200,30134,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,4400,31336,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,4600,32541,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,4800,33749,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,19,5000,34951,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1,6,0.02,0.14070529413628968,0.02,7.84,deterministic
+Expected SARSA,20,200,1615,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,400,3269,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,600,4733,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,800,6251,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1000,7765,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1200,9381,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1400,10886,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1600,12356,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,1800,13826,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,2000,15250,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,2200,16540,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,2400,17934,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,2600,19281,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,2800,20626,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,3000,21911,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,3200,23176,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,3400,24480,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,3600,25733,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,3800,26942,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,4000,28149,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,4200,29339,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,4400,30544,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,4600,31755,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,4800,32963,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,20,5000,34170,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1,8,0.01,0.09999999999999999,0.01,7.81,deterministic
+Expected SARSA,21,200,1354,0.06,0.238683256575942,0.06,8.23,deterministic
+Expected SARSA,21,400,2839,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,600,4232,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,800,5598,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1000,7082,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1200,8554,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1400,9894,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1600,11325,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,1800,12755,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,2000,14134,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,2200,15544,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,2400,16905,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,2600,18221,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,2800,19534,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,3000,20891,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,3200,22140,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,3400,23442,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,3600,24721,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,3800,25964,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,4000,27188,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,4200,28392,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,4400,29597,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,4600,30794,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,4800,32005,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,21,5000,33203,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1,4,0.02,0.14070529413628965,0.02,8.64,deterministic
+Expected SARSA,22,200,1534,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,400,3041,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,600,4560,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,800,6106,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1000,7633,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1200,9270,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1400,10823,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1600,12353,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,1800,13886,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,2000,15324,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,2200,16777,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,2400,18195,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,2600,19580,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,2800,21017,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,3000,22397,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,3200,23787,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,3400,25142,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,3600,26439,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,3800,27653,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,4000,28879,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,4200,30082,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,4400,31288,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,4600,32489,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,4800,33690,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,22,5000,34892,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1,10,0.03,0.1714466079977653,0.03,7.71,deterministic
+Expected SARSA,23,200,1516,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,400,3023,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,600,4366,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,800,5946,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1000,7358,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1200,8680,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1400,10178,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1600,11582,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,1800,12963,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,2000,14425,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,2200,15772,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,2400,17218,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,2600,18630,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,2800,19946,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,3000,21275,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,3200,22556,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,3400,23828,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,3600,25074,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,3800,26299,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,4000,27496,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,4200,28691,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,4400,29886,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,4600,31087,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,4800,32285,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,23,5000,33493,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1,5,0.02,0.14070529413628968,0.02,7.98,deterministic
+Expected SARSA,24,200,1611,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,400,3147,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,600,4630,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,800,6316,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1000,7750,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1200,9271,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1400,10733,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1600,12304,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,1800,13693,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,2000,15127,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,2200,16474,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,2400,17759,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,2600,19093,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,2800,20433,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,3000,21803,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,3200,23084,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,3400,24349,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,3600,25618,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,3800,26847,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,4000,28064,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,4200,29260,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,4400,30466,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,4600,31669,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,4800,32880,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,24,5000,34086,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1,24,0.02,0.14070529413628968,0.02,8.08,deterministic
+Expected SARSA,25,200,1642,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,400,3220,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,600,4621,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,800,6035,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1000,7410,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1200,8907,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1400,10264,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1600,11720,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,1800,13211,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,2000,14720,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,2200,16136,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,2400,17502,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,2600,18864,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,2800,20221,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,3000,21581,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,3200,22897,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,3400,24200,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,3600,25489,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,3800,26740,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,4000,27948,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,4200,29160,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,4400,30357,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,4600,31564,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,4800,32769,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,25,5000,33958,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1,4,0.02,0.14070529413628968,0.02,8.23,deterministic
+Expected SARSA,26,200,1600,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,400,3197,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,600,4701,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,800,6137,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1000,7581,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1200,9035,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1400,10391,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1600,11856,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,1800,13241,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,2000,14538,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,2200,15943,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,2400,17331,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,2600,18719,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,2800,19997,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,3000,21366,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,3200,22657,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,3400,23953,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,3600,25236,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,3800,26456,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,4000,27676,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,4200,28881,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,4400,30095,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,4600,31303,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,4800,32511,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,26,5000,33724,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1,2,0.01,0.09999999999999999,0.01,8.86,deterministic
+Expected SARSA,27,200,1621,0.04,0.19694638556693236,0.04,8.2,deterministic
+Expected SARSA,27,400,3007,0.03,0.1714466079977653,0.03,7.37,deterministic
+Expected SARSA,27,600,4472,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,800,6018,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1000,7654,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1200,9188,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1400,10673,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1600,12236,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,1800,13649,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,2000,15024,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,2200,16494,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,2400,17928,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,2600,19385,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,2800,20859,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,3000,22279,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,3200,23677,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,3400,25002,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,3600,26296,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,3800,27588,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,4000,28811,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,4200,30015,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,4400,31226,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,4600,32440,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,4800,33648,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,27,5000,34842,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1,11,0.02,0.14070529413628965,0.02,7.77,deterministic
+Expected SARSA,28,200,1473,0.04,0.19694638556693236,0.04,7.53,deterministic
+Expected SARSA,28,400,3046,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,600,4444,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,800,5826,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1000,7181,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1200,8586,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1400,10094,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1600,11524,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,1800,12928,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,2000,14360,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,2200,15677,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,2400,17090,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,2600,18416,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,2800,19685,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,3000,21005,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,3200,22246,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,3400,23559,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,3600,24789,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,3800,26024,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,4000,27241,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,4200,28444,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,4400,29647,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,4600,30845,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,4800,32059,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,28,5000,33263,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1,5,0.02,0.14070529413628965,0.02,8.11,deterministic
+Expected SARSA,29,200,1429,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,400,2929,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,600,4524,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,800,6042,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1000,7460,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1200,8998,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1400,10449,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1600,12019,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,1800,13489,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,2000,14917,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,2200,16390,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,2400,17777,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,2600,19171,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,2800,20560,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,3000,22021,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,3200,23364,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,3400,24675,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,3600,25961,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,3800,27218,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,4000,28458,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,4200,29664,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,4400,30868,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,4600,32069,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,4800,33269,1.0,0.0,1.0,6.0,deterministic
+Expected SARSA,29,5000,34476,1.0,0.0,1.0,6.0,deterministic
+SARSA,0,1,12,0.01,0.09999999999999999,0.01,7.49,slippery
+SARSA,0,200,1675,0.02,0.14070529413628965,0.02,7.85,slippery
+SARSA,0,400,3272,0.03,0.1714466079977653,0.03,5.17,slippery
+SARSA,0,600,4808,0.28,0.4512608598542129,0.28,24.84,slippery
+SARSA,0,800,6429,0.3,0.4605661864718382,0.3,21.65,slippery
+SARSA,0,1000,7968,0.07,0.2564323999762428,0.07,7.63,slippery
+SARSA,0,1200,9547,0.31,0.46482319871173167,0.31,26.34,slippery
+SARSA,0,1400,11328,0.1,0.30151134457776363,0.1,8.46,slippery
+SARSA,0,1600,13123,0.08,0.2726599243442907,0.08,11.47,slippery
+SARSA,0,1800,15235,0.18,0.38612291966536916,0.18,12.34,slippery
+SARSA,0,2000,17115,0.24,0.42923469599092784,0.24,20.67,slippery
+SARSA,0,2200,19071,0.13,0.3379976689896311,0.13,12.48,slippery
+SARSA,0,2400,21284,0.56,0.49888765156985887,0.56,47.78,slippery
+SARSA,0,2600,23715,0.23,0.42295258468165076,0.23,18.57,slippery
+SARSA,0,2800,26102,0.12,0.3265986323710904,0.12,13.8,slippery
+SARSA,0,3000,28643,0.19,0.3942772444036626,0.19,19.06,slippery
+SARSA,0,3200,31538,0.55,0.5,0.55,35.1,slippery
+SARSA,0,3400,34550,0.32,0.4688261722621506,0.32,22.35,slippery
+SARSA,0,3600,38173,0.36,0.4824181513244218,0.36,20.9,slippery
+SARSA,0,3800,42827,0.36,0.4824181513244218,0.36,28.03,slippery
+SARSA,0,4000,48497,0.5,0.502518907629606,0.5,32.16,slippery
+SARSA,0,4200,55229,0.43,0.497569851956243,0.43,26.72,slippery
+SARSA,0,4400,61211,0.76,0.42923469599092784,0.76,37.2,slippery
+SARSA,0,4600,67720,0.5,0.502518907629606,0.5,28.43,slippery
+SARSA,0,4800,74109,0.78,0.4163331998932266,0.78,42.75,slippery
+SARSA,0,5000,81566,0.57,0.497569851956243,0.57,40.87,slippery
+SARSA,1,1,4,0.01,0.09999999999999999,0.01,7.63,slippery
+SARSA,1,200,1671,0.01,0.09999999999999999,0.01,7.5,slippery
+SARSA,1,400,3369,0.06,0.23868325657594203,0.06,12.17,slippery
+SARSA,1,600,4860,0.15,0.3588702812826367,0.15,15.46,slippery
+SARSA,1,800,6462,0.07,0.2564323999762428,0.07,6.67,slippery
+SARSA,1,1000,8286,0.07,0.2564323999762428,0.07,10.11,slippery
+SARSA,1,1200,10067,0.13,0.33799766898963113,0.13,7.82,slippery
+SARSA,1,1400,11753,0.19,0.3942772444036625,0.19,21.86,slippery
+SARSA,1,1600,13651,0.26,0.44084400227680803,0.26,23.83,slippery
+SARSA,1,1800,15311,0.22,0.4163331998932266,0.22,23.5,slippery
+SARSA,1,2000,17100,0.11,0.3144660377352202,0.11,16.32,slippery
+SARSA,1,2200,19056,0.15,0.3588702812826367,0.15,11.57,slippery
+SARSA,1,2400,20978,0.21,0.40936018074033237,0.21,16.96,slippery
+SARSA,1,2600,23380,0.58,0.49604496374885826,0.58,32.53,slippery
+SARSA,1,2800,26030,0.26,0.44084400227680803,0.26,24.77,slippery
+SARSA,1,3000,28666,0.21,0.40936018074033237,0.21,22.2,slippery
+SARSA,1,3200,31380,0.21,0.40936018074033237,0.21,14.43,slippery
+SARSA,1,3400,35037,0.59,0.49431107042371025,0.59,49.14,slippery
+SARSA,1,3600,39137,0.37,0.4852365870939097,0.37,25.72,slippery
+SARSA,1,3800,42613,0.41,0.4943110704237103,0.41,33.37,slippery
+SARSA,1,4000,47880,0.77,0.42295258468165076,0.77,41.68,slippery
+SARSA,1,4200,53833,0.49,0.5024183937956914,0.49,23.08,slippery
+SARSA,1,4400,59374,0.71,0.45604802157206864,0.71,44.18,slippery
+SARSA,1,4600,66017,0.75,0.4351941398892446,0.75,37.83,slippery
+SARSA,1,4800,73874,0.31,0.46482319871173167,0.31,31.36,slippery
+SARSA,1,5000,81009,0.46,0.5009082659620331,0.46,35.85,slippery
+SARSA,2,1,7,0.0,0.0,0.0,8.2,slippery
+SARSA,2,200,1433,0.02,0.14070529413628968,0.02,7.92,slippery
+SARSA,2,400,3096,0.07,0.2564323999762428,0.07,8.55,slippery
+SARSA,2,600,4567,0.09,0.2876234912646614,0.09,21.85,slippery
+SARSA,2,800,6250,0.11,0.31446603773522014,0.11,12.81,slippery
+SARSA,2,1000,7917,0.04,0.19694638556693236,0.04,10.49,slippery
+SARSA,2,1200,9634,0.2,0.4020151261036849,0.2,17.29,slippery
+SARSA,2,1400,11299,0.51,0.5024183937956913,0.51,33.15,slippery
+SARSA,2,1600,12987,0.05,0.2190429135575903,0.05,9.07,slippery
+SARSA,2,1800,14661,0.16,0.3684529491774707,0.16,15.52,slippery
+SARSA,2,2000,16857,0.29,0.4560480215720686,0.29,28.48,slippery
+SARSA,2,2200,18744,0.37,0.48523658709390977,0.37,17.02,slippery
+SARSA,2,2400,21071,0.41,0.4943110704237103,0.41,27.79,slippery
+SARSA,2,2600,23366,0.13,0.33799766898963113,0.13,15.73,slippery
+SARSA,2,2800,25857,0.37,0.4852365870939097,0.37,27.81,slippery
+SARSA,2,3000,28730,0.18,0.38612291966536916,0.18,18.97,slippery
+SARSA,2,3200,30932,0.18,0.38612291966536916,0.18,15.41,slippery
+SARSA,2,3400,34278,0.55,0.5,0.55,34.39,slippery
+SARSA,2,3600,38286,0.13,0.3379976689896311,0.13,16.08,slippery
+SARSA,2,3800,42604,0.49,0.5024183937956914,0.49,32.64,slippery
+SARSA,2,4000,48304,0.71,0.4560480215720687,0.71,40.9,slippery
+SARSA,2,4200,54422,0.51,0.5024183937956914,0.51,29.11,slippery
+SARSA,2,4400,60426,0.5,0.502518907629606,0.5,28.31,slippery
+SARSA,2,4600,65954,0.2,0.4020151261036849,0.2,21.69,slippery
+SARSA,2,4800,71730,0.74,0.44084400227680803,0.74,44.51,slippery
+SARSA,2,5000,78895,0.44,0.4988876515698589,0.44,27.76,slippery
+SARSA,3,1,7,0.02,0.14070529413628965,0.02,7.87,slippery
+SARSA,3,200,1611,0.01,0.09999999999999999,0.01,7.1,slippery
+SARSA,3,400,3182,0.04,0.19694638556693236,0.04,10.12,slippery
+SARSA,3,600,4750,0.09,0.2876234912646614,0.09,10.53,slippery
+SARSA,3,800,6513,0.12,0.32659863237109044,0.12,17.36,slippery
+SARSA,3,1000,8220,0.08,0.2726599243442907,0.08,6.9,slippery
+SARSA,3,1200,10274,0.19,0.3942772444036626,0.19,21.66,slippery
+SARSA,3,1400,12007,0.04,0.19694638556693236,0.04,6.1,slippery
+SARSA,3,1600,13757,0.33,0.4725815626252608,0.33,32.24,slippery
+SARSA,3,1800,15343,0.07,0.2564323999762428,0.07,9.86,slippery
+SARSA,3,2000,17256,0.14,0.34873508801977704,0.14,12.78,slippery
+SARSA,3,2200,19625,0.13,0.3379976689896311,0.13,17.86,slippery
+SARSA,3,2400,21840,0.64,0.48241815132442184,0.64,41.6,slippery
+SARSA,3,2600,24039,0.33,0.4725815626252608,0.33,25.3,slippery
+SARSA,3,2800,26448,0.24,0.42923469599092784,0.24,15.25,slippery
+SARSA,3,3000,28732,0.21,0.40936018074033237,0.21,10.03,slippery
+SARSA,3,3200,31595,0.32,0.4688261722621506,0.32,29.13,slippery
+SARSA,3,3400,34811,0.32,0.4688261722621506,0.32,25.42,slippery
+SARSA,3,3600,38910,0.47,0.5016135580465918,0.47,34.14,slippery
+SARSA,3,3800,43576,0.75,0.4351941398892446,0.75,41.66,slippery
+SARSA,3,4000,48800,0.39,0.4902071300001973,0.39,34.37,slippery
+SARSA,3,4200,55604,0.71,0.45604802157206864,0.71,38.56,slippery
+SARSA,3,4400,62059,0.52,0.5021167315686782,0.52,31.36,slippery
+SARSA,3,4600,68995,0.74,0.44084400227680803,0.74,39.31,slippery
+SARSA,3,4800,75987,0.37,0.4852365870939097,0.37,28.74,slippery
+SARSA,3,5000,81880,0.2,0.40201512610368484,0.2,13.88,slippery
+SARSA,4,1,25,0.03,0.1714466079977653,0.03,8.16,slippery
+SARSA,4,200,1616,0.04,0.19694638556693236,0.04,8.16,slippery
+SARSA,4,400,3096,0.02,0.14070529413628965,0.02,6.77,slippery
+SARSA,4,600,4807,0.04,0.19694638556693236,0.04,8.63,slippery
+SARSA,4,800,6328,0.1,0.30151134457776363,0.1,10.53,slippery
+SARSA,4,1000,7810,0.27,0.44619604333847374,0.27,24.61,slippery
+SARSA,4,1200,9488,0.11,0.31446603773522014,0.11,10.75,slippery
+SARSA,4,1400,11249,0.08,0.2726599243442907,0.08,11.04,slippery
+SARSA,4,1600,13031,0.57,0.497569851956243,0.57,34.74,slippery
+SARSA,4,1800,15048,0.11,0.31446603773522014,0.11,21.84,slippery
+SARSA,4,2000,16699,0.18,0.38612291966536916,0.18,14.1,slippery
+SARSA,4,2200,18744,0.21,0.40936018074033237,0.21,17.5,slippery
+SARSA,4,2400,20832,0.23,0.4229525846816507,0.23,19.67,slippery
+SARSA,4,2600,22875,0.16,0.3684529491774707,0.16,9.33,slippery
+SARSA,4,2800,25180,0.32,0.4688261722621506,0.32,18.98,slippery
+SARSA,4,3000,27840,0.27,0.4461960433384737,0.27,21.54,slippery
+SARSA,4,3200,30798,0.18,0.38612291966536916,0.18,15.22,slippery
+SARSA,4,3400,34015,0.36,0.4824181513244218,0.36,38.6,slippery
+SARSA,4,3600,37890,0.4,0.49236596391733095,0.4,35.13,slippery
+SARSA,4,3800,43233,0.24,0.42923469599092784,0.24,23.39,slippery
+SARSA,4,4000,48172,0.29,0.45604802157206864,0.29,21.67,slippery
+SARSA,4,4200,53531,0.53,0.5016135580465918,0.53,27.6,slippery
+SARSA,4,4400,59827,0.65,0.4793724854411022,0.65,41.62,slippery
+SARSA,4,4600,66299,0.51,0.5024183937956913,0.51,27.96,slippery
+SARSA,4,4800,72927,0.76,0.42923469599092784,0.76,40.22,slippery
+SARSA,4,5000,80495,0.54,0.5009082659620331,0.54,29.52,slippery
+SARSA,5,1,18,0.01,0.09999999999999999,0.01,7.94,slippery
+SARSA,5,200,1452,0.05,0.2190429135575903,0.05,8.3,slippery
+SARSA,5,400,2955,0.28,0.4512608598542129,0.28,29.12,slippery
+SARSA,5,600,4573,0.03,0.1714466079977653,0.03,7.26,slippery
+SARSA,5,800,6301,0.03,0.1714466079977653,0.03,7.02,slippery
+SARSA,5,1000,7944,0.21,0.40936018074033237,0.21,12.45,slippery
+SARSA,5,1200,9671,0.58,0.49604496374885826,0.58,37.96,slippery
+SARSA,5,1400,11186,0.1,0.30151134457776363,0.1,13.15,slippery
+SARSA,5,1600,12894,0.46,0.5009082659620331,0.46,29.05,slippery
+SARSA,5,1800,14984,0.18,0.38612291966536916,0.18,12.58,slippery
+SARSA,5,2000,17007,0.14,0.34873508801977704,0.14,12.76,slippery
+SARSA,5,2200,19071,0.14,0.348735088019777,0.14,20.35,slippery
+SARSA,5,2400,21461,0.16,0.3684529491774706,0.16,19.03,slippery
+SARSA,5,2600,23768,0.13,0.3379976689896311,0.13,14.79,slippery
+SARSA,5,2800,26371,0.16,0.3684529491774707,0.16,18.99,slippery
+SARSA,5,3000,29050,0.26,0.4408440022768081,0.26,21.32,slippery
+SARSA,5,3200,32060,0.24,0.42923469599092784,0.24,27.7,slippery
+SARSA,5,3400,35229,0.53,0.5016135580465918,0.53,30.68,slippery
+SARSA,5,3600,38959,0.25,0.4351941398892446,0.25,19.25,slippery
+SARSA,5,3800,43204,0.22,0.4163331998932266,0.22,20.15,slippery
+SARSA,5,4000,47514,0.35,0.4793724854411022,0.35,21.65,slippery
+SARSA,5,4200,52329,0.39,0.4902071300001973,0.39,28.38,slippery
+SARSA,5,4400,58857,0.43,0.497569851956243,0.43,24.01,slippery
+SARSA,5,4600,65027,0.8,0.40201512610368484,0.8,38.0,slippery
+SARSA,5,4800,72057,0.56,0.4988876515698589,0.56,28.84,slippery
+SARSA,5,5000,78537,0.76,0.42923469599092784,0.76,41.32,slippery
+SARSA,6,1,3,0.02,0.14070529413628968,0.02,7.93,slippery
+SARSA,6,200,1521,0.03,0.1714466079977653,0.03,6.79,slippery
+SARSA,6,400,3023,0.07,0.2564323999762428,0.07,19.44,slippery
+SARSA,6,600,4669,0.08,0.27265992434429076,0.08,12.37,slippery
+SARSA,6,800,6142,0.06,0.238683256575942,0.06,6.94,slippery
+SARSA,6,1000,7796,0.1,0.30151134457776363,0.1,15.78,slippery
+SARSA,6,1200,9507,0.06,0.238683256575942,0.06,9.71,slippery
+SARSA,6,1400,11371,0.29,0.4560480215720686,0.29,21.54,slippery
+SARSA,6,1600,13130,0.15,0.3588702812826367,0.15,11.71,slippery
+SARSA,6,1800,14775,0.11,0.3144660377352202,0.11,15.86,slippery
+SARSA,6,2000,16692,0.18,0.38612291966536916,0.18,13.1,slippery
+SARSA,6,2200,18545,0.25,0.4351941398892446,0.25,29.82,slippery
+SARSA,6,2400,20808,0.19,0.3942772444036625,0.19,14.24,slippery
+SARSA,6,2600,23309,0.37,0.4852365870939097,0.37,26.57,slippery
+SARSA,6,2800,26109,0.08,0.2726599243442907,0.08,12.38,slippery
+SARSA,6,3000,28802,0.5,0.502518907629606,0.5,32.38,slippery
+SARSA,6,3200,31606,0.34,0.47609522856952335,0.34,23.36,slippery
+SARSA,6,3400,35257,0.53,0.5016135580465918,0.53,40.77,slippery
+SARSA,6,3600,39422,0.58,0.49604496374885826,0.58,27.05,slippery
+SARSA,6,3800,43751,0.23,0.4229525846816507,0.23,15.93,slippery
+SARSA,6,4000,49174,0.75,0.4351941398892446,0.75,42.68,slippery
+SARSA,6,4200,56970,0.69,0.46482319871173167,0.69,39.19,slippery
+SARSA,6,4400,62607,0.4,0.49236596391733095,0.4,26.76,slippery
+SARSA,6,4600,68477,0.58,0.49604496374885826,0.58,32.91,slippery
+SARSA,6,4800,74244,0.42,0.49604496374885826,0.42,31.56,slippery
+SARSA,6,5000,79981,0.24,0.42923469599092784,0.24,20.75,slippery
+SARSA,7,1,6,0.03,0.1714466079977653,0.03,8.38,slippery
+SARSA,7,200,1597,0.05,0.2190429135575903,0.05,13.5,slippery
+SARSA,7,400,3229,0.15,0.3588702812826367,0.15,15.62,slippery
+SARSA,7,600,4804,0.09,0.28762349126466136,0.09,8.86,slippery
+SARSA,7,800,6427,0.07,0.2564323999762428,0.07,9.08,slippery
+SARSA,7,1000,7802,0.29,0.4560480215720686,0.29,19.43,slippery
+SARSA,7,1200,9697,0.13,0.3379976689896311,0.13,12.44,slippery
+SARSA,7,1400,11601,0.3,0.4605661864718382,0.3,24.95,slippery
+SARSA,7,1600,13558,0.1,0.30151134457776363,0.1,10.9,slippery
+SARSA,7,1800,15546,0.33,0.4725815626252608,0.33,25.41,slippery
+SARSA,7,2000,17618,0.12,0.32659863237109044,0.12,10.99,slippery
+SARSA,7,2200,19556,0.05,0.21904291355759034,0.05,6.69,slippery
+SARSA,7,2400,21527,0.14,0.34873508801977704,0.14,8.87,slippery
+SARSA,7,2600,23711,0.21,0.40936018074033237,0.21,15.89,slippery
+SARSA,7,2800,26277,0.54,0.5009082659620331,0.54,28.44,slippery
+SARSA,7,3000,29045,0.66,0.47609522856952335,0.66,36.51,slippery
+SARSA,7,3200,32143,0.08,0.2726599243442907,0.08,10.8,slippery
+SARSA,7,3400,35506,0.5,0.502518907629606,0.5,32.99,slippery
+SARSA,7,3600,39269,0.22,0.4163331998932266,0.22,17.04,slippery
+SARSA,7,3800,43593,0.2,0.4020151261036849,0.2,14.27,slippery
+SARSA,7,4000,48870,0.49,0.5024183937956913,0.49,35.11,slippery
+SARSA,7,4200,54277,0.44,0.4988876515698589,0.44,28.39,slippery
+SARSA,7,4400,59553,0.42,0.49604496374885826,0.42,23.9,slippery
+SARSA,7,4600,66143,0.68,0.4688261722621507,0.68,39.45,slippery
+SARSA,7,4800,72145,0.74,0.44084400227680803,0.74,38.67,slippery
+SARSA,7,5000,78964,0.77,0.4229525846816507,0.77,42.2,slippery
+SARSA,8,1,10,0.03,0.1714466079977653,0.03,7.39,slippery
+SARSA,8,200,1501,0.01,0.09999999999999999,0.01,10.1,slippery
+SARSA,8,400,3029,0.09,0.2876234912646614,0.09,13.04,slippery
+SARSA,8,600,4665,0.05,0.21904291355759029,0.05,7.85,slippery
+SARSA,8,800,6161,0.05,0.21904291355759034,0.05,9.35,slippery
+SARSA,8,1000,7772,0.09,0.2876234912646614,0.09,12.24,slippery
+SARSA,8,1200,9408,0.27,0.4461960433384737,0.27,27.87,slippery
+SARSA,8,1400,11198,0.04,0.19694638556693236,0.04,5.69,slippery
+SARSA,8,1600,13130,0.11,0.31446603773522014,0.11,14.38,slippery
+SARSA,8,1800,14871,0.06,0.238683256575942,0.06,14.17,slippery
+SARSA,8,2000,16711,0.11,0.3144660377352202,0.11,9.62,slippery
+SARSA,8,2200,18756,0.6,0.49236596391733095,0.6,39.69,slippery
+SARSA,8,2400,20905,0.28,0.45126085985421294,0.28,22.32,slippery
+SARSA,8,2600,23335,0.28,0.4512608598542129,0.28,27.36,slippery
+SARSA,8,2800,26102,0.13,0.3379976689896311,0.13,19.41,slippery
+SARSA,8,3000,28633,0.12,0.3265986323710904,0.12,14.48,slippery
+SARSA,8,3200,31039,0.32,0.4688261722621506,0.32,14.13,slippery
+SARSA,8,3400,34690,0.33,0.4725815626252608,0.33,18.23,slippery
+SARSA,8,3600,37528,0.11,0.3144660377352202,0.11,15.19,slippery
+SARSA,8,3800,41781,0.38,0.4878317312145633,0.38,20.39,slippery
+SARSA,8,4000,47838,0.55,0.5,0.55,34.23,slippery
+SARSA,8,4200,53878,0.62,0.4878317312145634,0.62,38.84,slippery
+SARSA,8,4400,61240,0.57,0.497569851956243,0.57,40.78,slippery
+SARSA,8,4600,67594,0.47,0.5016135580465918,0.47,25.54,slippery
+SARSA,8,4800,73568,0.5,0.502518907629606,0.5,32.24,slippery
+SARSA,8,5000,79443,0.41,0.4943110704237103,0.41,29.8,slippery
+SARSA,9,1,9,0.03,0.1714466079977653,0.03,7.46,slippery
+SARSA,9,200,1520,0.06,0.238683256575942,0.06,8.04,slippery
+SARSA,9,400,3056,0.06,0.238683256575942,0.06,15.4,slippery
+SARSA,9,600,4610,0.08,0.27265992434429076,0.08,11.31,slippery
+SARSA,9,800,6172,0.16,0.3684529491774707,0.16,23.04,slippery
+SARSA,9,1000,7827,0.02,0.14070529413628968,0.02,6.79,slippery
+SARSA,9,1200,9512,0.17,0.3775251680686369,0.17,12.03,slippery
+SARSA,9,1400,11328,0.24,0.42923469599092784,0.24,16.53,slippery
+SARSA,9,1600,13069,0.16,0.3684529491774706,0.16,27.75,slippery
+SARSA,9,1800,15086,0.18,0.38612291966536916,0.18,16.88,slippery
+SARSA,9,2000,17028,0.12,0.32659863237109044,0.12,14.49,slippery
+SARSA,9,2200,19116,0.34,0.4760952285695233,0.34,26.84,slippery
+SARSA,9,2400,21111,0.18,0.38612291966536916,0.18,21.77,slippery
+SARSA,9,2600,23693,0.48,0.5021167315686782,0.48,29.45,slippery
+SARSA,9,2800,26473,0.37,0.4852365870939097,0.37,19.71,slippery
+SARSA,9,3000,29054,0.41,0.4943110704237103,0.41,29.19,slippery
+SARSA,9,3200,32311,0.37,0.48523658709390977,0.37,35.98,slippery
+SARSA,9,3400,35433,0.36,0.48241815132442184,0.36,22.93,slippery
+SARSA,9,3600,39010,0.14,0.34873508801977704,0.14,29.69,slippery
+SARSA,9,3800,43593,0.3,0.4605661864718382,0.3,26.04,slippery
+SARSA,9,4000,49727,0.52,0.5021167315686782,0.52,35.14,slippery
+SARSA,9,4200,56706,0.44,0.4988876515698589,0.44,40.32,slippery
+SARSA,9,4400,63329,0.38,0.48783173121456336,0.38,28.67,slippery
+SARSA,9,4600,68852,0.45,0.5,0.45,32.45,slippery
+SARSA,9,4800,74747,0.36,0.4824181513244218,0.36,30.31,slippery
+SARSA,9,5000,81044,0.51,0.5024183937956914,0.51,36.19,slippery
+SARSA,10,1,6,0.02,0.14070529413628965,0.02,8.62,slippery
+SARSA,10,200,1533,0.01,0.09999999999999999,0.01,7.34,slippery
+SARSA,10,400,3061,0.01,0.09999999999999999,0.01,6.32,slippery
+SARSA,10,600,4628,0.16,0.3684529491774707,0.16,26.86,slippery
+SARSA,10,800,6111,0.05,0.21904291355759029,0.05,8.93,slippery
+SARSA,10,1000,7690,0.11,0.3144660377352202,0.11,13.35,slippery
+SARSA,10,1200,9322,0.09,0.2876234912646614,0.09,12.7,slippery
+SARSA,10,1400,10931,0.08,0.2726599243442907,0.08,10.61,slippery
+SARSA,10,1600,12750,0.06,0.238683256575942,0.06,11.61,slippery
+SARSA,10,1800,14603,0.35,0.4793724854411022,0.35,23.31,slippery
+SARSA,10,2000,16678,0.24,0.42923469599092784,0.24,21.75,slippery
+SARSA,10,2200,18781,0.14,0.348735088019777,0.14,16.59,slippery
+SARSA,10,2400,21024,0.63,0.4852365870939097,0.63,42.03,slippery
+SARSA,10,2600,23279,0.34,0.4760952285695233,0.34,21.51,slippery
+SARSA,10,2800,26104,0.19,0.3942772444036626,0.19,16.65,slippery
+SARSA,10,3000,28888,0.78,0.4163331998932266,0.78,41.2,slippery
+SARSA,10,3200,32134,0.27,0.44619604333847374,0.27,20.04,slippery
+SARSA,10,3400,35551,0.47,0.5016135580465918,0.47,31.2,slippery
+SARSA,10,3600,39596,0.55,0.5,0.55,31.67,slippery
+SARSA,10,3800,43700,0.17,0.3775251680686369,0.17,13.55,slippery
+SARSA,10,4000,48607,0.39,0.4902071300001973,0.39,35.44,slippery
+SARSA,10,4200,54644,0.59,0.4943110704237103,0.59,30.52,slippery
+SARSA,10,4400,60205,0.45,0.5,0.45,29.34,slippery
+SARSA,10,4600,66203,0.46,0.5009082659620331,0.46,32.07,slippery
+SARSA,10,4800,71650,0.56,0.49888765156985887,0.56,29.7,slippery
+SARSA,10,5000,76816,0.48,0.5021167315686782,0.48,32.2,slippery
+SARSA,11,1,3,0.03,0.1714466079977653,0.03,6.63,slippery
+SARSA,11,200,1378,0.04,0.19694638556693236,0.04,6.61,slippery
+SARSA,11,400,2895,0.05,0.2190429135575903,0.05,5.93,slippery
+SARSA,11,600,4405,0.13,0.33799766898963113,0.13,15.3,slippery
+SARSA,11,800,5960,0.08,0.2726599243442907,0.08,11.46,slippery
+SARSA,11,1000,7605,0.1,0.30151134457776363,0.1,13.91,slippery
+SARSA,11,1200,9261,0.2,0.4020151261036849,0.2,22.55,slippery
+SARSA,11,1400,11207,0.05,0.2190429135575903,0.05,7.31,slippery
+SARSA,11,1600,13042,0.21,0.40936018074033237,0.21,10.22,slippery
+SARSA,11,1800,14894,0.11,0.31446603773522014,0.11,8.38,slippery
+SARSA,11,2000,16793,0.08,0.2726599243442907,0.08,9.39,slippery
+SARSA,11,2200,18895,0.1,0.30151134457776363,0.1,8.43,slippery
+SARSA,11,2400,21179,0.27,0.4461960433384737,0.27,24.08,slippery
+SARSA,11,2600,23584,0.25,0.4351941398892446,0.25,23.88,slippery
+SARSA,11,2800,26005,0.13,0.33799766898963113,0.13,12.47,slippery
+SARSA,11,3000,28473,0.24,0.42923469599092784,0.24,19.78,slippery
+SARSA,11,3200,31151,0.22,0.4163331998932266,0.22,17.84,slippery
+SARSA,11,3400,34295,0.24,0.42923469599092784,0.24,14.98,slippery
+SARSA,11,3600,38175,0.36,0.48241815132442184,0.36,28.01,slippery
+SARSA,11,3800,42066,0.2,0.40201512610368484,0.2,23.6,slippery
+SARSA,11,4000,46275,0.53,0.5016135580465918,0.53,32.23,slippery
+SARSA,11,4200,53203,0.66,0.47609522856952335,0.66,37.12,slippery
+SARSA,11,4400,60149,0.72,0.4512608598542129,0.72,37.73,slippery
+SARSA,11,4600,65840,0.6,0.49236596391733095,0.6,43.75,slippery
+SARSA,11,4800,71979,0.5,0.502518907629606,0.5,30.78,slippery
+SARSA,11,5000,77473,0.35,0.4793724854411022,0.35,28.03,slippery
+SARSA,12,1,41,0.02,0.14070529413628965,0.02,8.52,slippery
+SARSA,12,200,1565,0.0,0.0,0.0,7.17,slippery
+SARSA,12,400,3109,0.02,0.14070529413628968,0.02,14.84,slippery
+SARSA,12,600,4639,0.03,0.17144660799776532,0.03,8.87,slippery
+SARSA,12,800,6295,0.03,0.1714466079977653,0.03,7.85,slippery
+SARSA,12,1000,7749,0.12,0.3265986323710904,0.12,8.51,slippery
+SARSA,12,1200,9327,0.06,0.238683256575942,0.06,9.71,slippery
+SARSA,12,1400,11005,0.25,0.4351941398892446,0.25,20.54,slippery
+SARSA,12,1600,12772,0.14,0.34873508801977704,0.14,12.45,slippery
+SARSA,12,1800,14624,0.2,0.4020151261036849,0.2,14.28,slippery
+SARSA,12,2000,16690,0.48,0.5021167315686782,0.48,25.23,slippery
+SARSA,12,2200,18833,0.19,0.3942772444036625,0.19,20.98,slippery
+SARSA,12,2400,21136,0.26,0.44084400227680803,0.26,24.13,slippery
+SARSA,12,2600,23675,0.16,0.3684529491774707,0.16,11.53,slippery
+SARSA,12,2800,26236,0.09,0.2876234912646614,0.09,7.65,slippery
+SARSA,12,3000,28785,0.31,0.46482319871173167,0.31,19.82,slippery
+SARSA,12,3200,31860,0.12,0.3265986323710904,0.12,14.2,slippery
+SARSA,12,3400,35082,0.67,0.47258156262526074,0.67,38.69,slippery
+SARSA,12,3600,39388,0.78,0.4163331998932266,0.78,39.22,slippery
+SARSA,12,3800,43984,0.41,0.4943110704237103,0.41,31.18,slippery
+SARSA,12,4000,49120,0.38,0.4878317312145633,0.38,27.11,slippery
+SARSA,12,4200,55884,0.68,0.4688261722621506,0.68,38.54,slippery
+SARSA,12,4400,63013,0.82,0.3861229196653691,0.82,40.68,slippery
+SARSA,12,4600,70328,0.76,0.42923469599092784,0.76,45.65,slippery
+SARSA,12,4800,76095,0.57,0.4975698519562429,0.57,26.72,slippery
+SARSA,12,5000,81961,0.45,0.5,0.45,28.07,slippery
+SARSA,13,1,5,0.02,0.14070529413628968,0.02,7.33,slippery
+SARSA,13,200,1351,0.06,0.238683256575942,0.06,6.66,slippery
+SARSA,13,400,2859,0.04,0.19694638556693236,0.04,10.8,slippery
+SARSA,13,600,4378,0.13,0.3379976689896311,0.13,11.97,slippery
+SARSA,13,800,5902,0.21,0.40936018074033237,0.21,23.35,slippery
+SARSA,13,1000,7613,0.42,0.4960449637488583,0.42,30.07,slippery
+SARSA,13,1200,9268,0.4,0.49236596391733095,0.4,27.37,slippery
+SARSA,13,1400,11095,0.4,0.49236596391733095,0.4,24.22,slippery
+SARSA,13,1600,12876,0.11,0.31446603773522014,0.11,8.91,slippery
+SARSA,13,1800,14839,0.16,0.3684529491774706,0.16,14.9,slippery
+SARSA,13,2000,16718,0.58,0.49604496374885826,0.58,28.49,slippery
+SARSA,13,2200,18739,0.47,0.5016135580465918,0.47,26.45,slippery
+SARSA,13,2400,21139,0.34,0.47609522856952335,0.34,24.97,slippery
+SARSA,13,2600,23466,0.26,0.44084400227680803,0.26,26.72,slippery
+SARSA,13,2800,26144,0.13,0.3379976689896311,0.13,22.97,slippery
+SARSA,13,3000,28882,0.15,0.3588702812826367,0.15,13.71,slippery
+SARSA,13,3200,31728,0.21,0.40936018074033237,0.21,24.13,slippery
+SARSA,13,3400,35034,0.27,0.44619604333847374,0.27,20.69,slippery
+SARSA,13,3600,38615,0.74,0.44084400227680803,0.74,41.49,slippery
+SARSA,13,3800,43006,0.4,0.49236596391733095,0.4,27.28,slippery
+SARSA,13,4000,48142,0.55,0.5,0.55,34.03,slippery
+SARSA,13,4200,53212,0.44,0.4988876515698589,0.44,29.3,slippery
+SARSA,13,4400,60725,0.74,0.4408440022768081,0.74,37.56,slippery
+SARSA,13,4600,66127,0.55,0.5,0.55,37.01,slippery
+SARSA,13,4800,73048,0.83,0.3775251680686369,0.83,47.88,slippery
+SARSA,13,5000,79813,0.7,0.4605661864718382,0.7,40.32,slippery
+SARSA,14,1,11,0.01,0.09999999999999999,0.01,7.9,slippery
+SARSA,14,200,1596,0.03,0.1714466079977653,0.03,6.98,slippery
+SARSA,14,400,3108,0.11,0.31446603773522014,0.11,8.89,slippery
+SARSA,14,600,4689,0.02,0.14070529413628968,0.02,6.5,slippery
+SARSA,14,800,6202,0.13,0.3379976689896311,0.13,20.3,slippery
+SARSA,14,1000,7972,0.12,0.32659863237109044,0.12,27.29,slippery
+SARSA,14,1200,9711,0.41,0.4943110704237103,0.41,28.99,slippery
+SARSA,14,1400,11492,0.2,0.4020151261036849,0.2,21.89,slippery
+SARSA,14,1600,13243,0.32,0.4688261722621506,0.32,22.61,slippery
+SARSA,14,1800,15251,0.19,0.3942772444036626,0.19,16.89,slippery
+SARSA,14,2000,17218,0.05,0.2190429135575903,0.05,9.28,slippery
+SARSA,14,2200,19200,0.1,0.30151134457776363,0.1,11.34,slippery
+SARSA,14,2400,21484,0.18,0.38612291966536916,0.18,21.55,slippery
+SARSA,14,2600,24036,0.58,0.49604496374885826,0.58,47.89,slippery
+SARSA,14,2800,26438,0.42,0.4960449637488583,0.42,38.35,slippery
+SARSA,14,3000,29197,0.26,0.44084400227680803,0.26,16.69,slippery
+SARSA,14,3200,32125,0.3,0.46056618647183817,0.3,20.9,slippery
+SARSA,14,3400,35812,0.14,0.34873508801977704,0.14,14.91,slippery
+SARSA,14,3600,39595,0.35,0.4793724854411022,0.35,21.31,slippery
+SARSA,14,3800,44148,0.16,0.3684529491774707,0.16,13.28,slippery
+SARSA,14,4000,50001,0.51,0.5024183937956913,0.51,29.32,slippery
+SARSA,14,4200,55999,0.69,0.4648231987117317,0.69,37.55,slippery
+SARSA,14,4400,62825,0.75,0.4351941398892446,0.75,42.27,slippery
+SARSA,14,4600,70762,0.71,0.4560480215720686,0.71,43.93,slippery
+SARSA,14,4800,78357,0.7,0.4605661864718382,0.7,45.85,slippery
+SARSA,14,5000,85820,0.69,0.4648231987117317,0.69,40.54,slippery
+SARSA,15,1,2,0.02,0.14070529413628968,0.02,7.36,slippery
+SARSA,15,200,1599,0.03,0.1714466079977653,0.03,8.82,slippery
+SARSA,15,400,3114,0.07,0.2564323999762428,0.07,11.05,slippery
+SARSA,15,600,4667,0.18,0.38612291966536916,0.18,15.29,slippery
+SARSA,15,800,6263,0.11,0.31446603773522014,0.11,7.36,slippery
+SARSA,15,1000,7929,0.13,0.33799766898963113,0.13,10.57,slippery
+SARSA,15,1200,9765,0.14,0.348735088019777,0.14,14.7,slippery
+SARSA,15,1400,11470,0.1,0.30151134457776363,0.1,10.27,slippery
+SARSA,15,1600,13314,0.1,0.30151134457776363,0.1,16.54,slippery
+SARSA,15,1800,15192,0.1,0.30151134457776363,0.1,10.38,slippery
+SARSA,15,2000,17033,0.06,0.23868325657594203,0.06,10.91,slippery
+SARSA,15,2200,19200,0.12,0.32659863237109044,0.12,7.72,slippery
+SARSA,15,2400,21274,0.36,0.48241815132442184,0.36,24.55,slippery
+SARSA,15,2600,23587,0.44,0.4988876515698589,0.44,32.67,slippery
+SARSA,15,2800,26161,0.17,0.3775251680686369,0.17,12.48,slippery
+SARSA,15,3000,28894,0.3,0.4605661864718382,0.3,25.8,slippery
+SARSA,15,3200,32054,0.19,0.3942772444036626,0.19,18.39,slippery
+SARSA,15,3400,35062,0.77,0.4229525846816507,0.77,39.24,slippery
+SARSA,15,3600,38578,0.33,0.4725815626252608,0.33,23.66,slippery
+SARSA,15,3800,42841,0.46,0.5009082659620331,0.46,32.73,slippery
+SARSA,15,4000,47385,0.43,0.497569851956243,0.43,27.68,slippery
+SARSA,15,4200,52081,0.4,0.49236596391733095,0.4,28.11,slippery
+SARSA,15,4400,58346,0.4,0.49236596391733095,0.4,28.44,slippery
+SARSA,15,4600,64420,0.74,0.44084400227680803,0.74,44.05,slippery
+SARSA,15,4800,71788,0.47,0.5016135580465918,0.47,33.01,slippery
+SARSA,15,5000,79602,0.7,0.4605661864718382,0.7,44.12,slippery
+SARSA,16,1,4,0.01,0.09999999999999999,0.01,7.13,slippery
+SARSA,16,200,1544,0.03,0.1714466079977653,0.03,7.89,slippery
+SARSA,16,400,3065,0.02,0.14070529413628968,0.02,5.76,slippery
+SARSA,16,600,4590,0.07,0.25643239997624273,0.07,7.65,slippery
+SARSA,16,800,6220,0.14,0.348735088019777,0.14,19.08,slippery
+SARSA,16,1000,7959,0.06,0.23868325657594203,0.06,12.8,slippery
+SARSA,16,1200,9751,0.08,0.2726599243442907,0.08,9.66,slippery
+SARSA,16,1400,11424,0.12,0.3265986323710904,0.12,8.96,slippery
+SARSA,16,1600,13142,0.2,0.4020151261036849,0.2,15.61,slippery
+SARSA,16,1800,15118,0.19,0.3942772444036625,0.19,19.35,slippery
+SARSA,16,2000,17229,0.04,0.19694638556693236,0.04,6.09,slippery
+SARSA,16,2200,19388,0.04,0.19694638556693236,0.04,9.89,slippery
+SARSA,16,2400,21457,0.14,0.34873508801977704,0.14,13.17,slippery
+SARSA,16,2600,23746,0.66,0.47609522856952335,0.66,40.83,slippery
+SARSA,16,2800,26499,0.18,0.38612291966536916,0.18,18.28,slippery
+SARSA,16,3000,29560,0.64,0.4824181513244218,0.64,40.4,slippery
+SARSA,16,3200,32824,0.37,0.48523658709390977,0.37,34.94,slippery
+SARSA,16,3400,36268,0.33,0.4725815626252608,0.33,21.91,slippery
+SARSA,16,3600,40101,0.25,0.4351941398892446,0.25,25.27,slippery
+SARSA,16,3800,44300,0.45,0.5,0.45,31.95,slippery
+SARSA,16,4000,50641,0.41,0.4943110704237103,0.41,27.65,slippery
+SARSA,16,4200,55154,0.51,0.5024183937956913,0.51,28.68,slippery
+SARSA,16,4400,60458,0.44,0.4988876515698589,0.44,31.72,slippery
+SARSA,16,4600,66200,0.5,0.502518907629606,0.5,29.12,slippery
+SARSA,16,4800,71682,0.45,0.5,0.45,29.53,slippery
+SARSA,16,5000,78296,0.38,0.48783173121456336,0.38,31.44,slippery
+SARSA,17,1,3,0.02,0.14070529413628968,0.02,7.95,slippery
+SARSA,17,200,1298,0.02,0.14070529413628965,0.02,6.54,slippery
+SARSA,17,400,2875,0.16,0.3684529491774707,0.16,12.56,slippery
+SARSA,17,600,4431,0.07,0.2564323999762428,0.07,9.4,slippery
+SARSA,17,800,5882,0.08,0.27265992434429076,0.08,6.25,slippery
+SARSA,17,1000,7584,0.23,0.42295258468165076,0.23,31.61,slippery
+SARSA,17,1200,9242,0.25,0.4351941398892446,0.25,24.52,slippery
+SARSA,17,1400,10997,0.13,0.3379976689896311,0.13,13.04,slippery
+SARSA,17,1600,12949,0.2,0.4020151261036849,0.2,20.36,slippery
+SARSA,17,1800,14883,0.08,0.2726599243442907,0.08,7.18,slippery
+SARSA,17,2000,16776,0.16,0.3684529491774706,0.16,10.53,slippery
+SARSA,17,2200,18610,0.09,0.2876234912646614,0.09,11.99,slippery
+SARSA,17,2400,20498,0.13,0.33799766898963113,0.13,15.88,slippery
+SARSA,17,2600,22549,0.15,0.3588702812826367,0.15,13.1,slippery
+SARSA,17,2800,25011,0.19,0.3942772444036626,0.19,16.51,slippery
+SARSA,17,3000,27748,0.53,0.5016135580465918,0.53,30.78,slippery
+SARSA,17,3200,30475,0.45,0.5,0.45,23.86,slippery
+SARSA,17,3400,34143,0.42,0.49604496374885826,0.42,37.41,slippery
+SARSA,17,3600,37924,0.33,0.4725815626252608,0.33,28.52,slippery
+SARSA,17,3800,42522,0.69,0.46482319871173167,0.69,43.21,slippery
+SARSA,17,4000,48152,0.64,0.4824181513244218,0.64,41.14,slippery
+SARSA,17,4200,55526,0.7,0.4605661864718382,0.7,37.95,slippery
+SARSA,17,4400,62505,0.71,0.4560480215720686,0.71,38.66,slippery
+SARSA,17,4600,69329,0.46,0.5009082659620331,0.46,28.65,slippery
+SARSA,17,4800,75864,0.2,0.4020151261036849,0.2,15.18,slippery
+SARSA,17,5000,80903,0.38,0.4878317312145634,0.38,22.83,slippery
+SARSA,18,1,17,0.02,0.14070529413628968,0.02,7.77,slippery
+SARSA,18,200,1571,0.01,0.09999999999999999,0.01,6.68,slippery
+SARSA,18,400,3149,0.14,0.348735088019777,0.14,24.05,slippery
+SARSA,18,600,4668,0.01,0.09999999999999999,0.01,5.8,slippery
+SARSA,18,800,6359,0.13,0.33799766898963113,0.13,16.59,slippery
+SARSA,18,1000,8044,0.15,0.3588702812826367,0.15,8.72,slippery
+SARSA,18,1200,9745,0.07,0.2564323999762428,0.07,7.44,slippery
+SARSA,18,1400,11436,0.33,0.4725815626252608,0.33,28.79,slippery
+SARSA,18,1600,13182,0.27,0.4461960433384737,0.27,23.04,slippery
+SARSA,18,1800,15211,0.27,0.44619604333847374,0.27,24.1,slippery
+SARSA,18,2000,17257,0.09,0.2876234912646614,0.09,7.76,slippery
+SARSA,18,2200,19286,0.13,0.33799766898963113,0.13,22.3,slippery
+SARSA,18,2400,21471,0.12,0.3265986323710904,0.12,13.04,slippery
+SARSA,18,2600,23773,0.44,0.4988876515698589,0.44,27.75,slippery
+SARSA,18,2800,26213,0.51,0.5024183937956914,0.51,35.97,slippery
+SARSA,18,3000,28934,0.22,0.41633319989322654,0.22,21.05,slippery
+SARSA,18,3200,31412,0.13,0.3379976689896311,0.13,10.52,slippery
+SARSA,18,3400,34246,0.17,0.3775251680686369,0.17,18.1,slippery
+SARSA,18,3600,38113,0.73,0.4461960433384737,0.73,42.73,slippery
+SARSA,18,3800,43592,0.67,0.4725815626252609,0.67,40.26,slippery
+SARSA,18,4000,47888,0.41,0.4943110704237103,0.41,25.66,slippery
+SARSA,18,4200,53234,0.42,0.49604496374885826,0.42,25.1,slippery
+SARSA,18,4400,58593,0.41,0.4943110704237103,0.41,26.27,slippery
+SARSA,18,4600,65538,0.38,0.48783173121456336,0.38,34.52,slippery
+SARSA,18,4800,71461,0.48,0.5021167315686782,0.48,35.61,slippery
+SARSA,18,5000,78082,0.41,0.4943110704237103,0.41,28.46,slippery
+SARSA,19,1,3,0.01,0.09999999999999999,0.01,6.83,slippery
+SARSA,19,200,1501,0.07,0.2564323999762428,0.07,9.35,slippery
+SARSA,19,400,3091,0.14,0.34873508801977704,0.14,8.12,slippery
+SARSA,19,600,4597,0.06,0.238683256575942,0.06,7.66,slippery
+SARSA,19,800,6003,0.16,0.3684529491774707,0.16,9.82,slippery
+SARSA,19,1000,7584,0.07,0.2564323999762428,0.07,9.49,slippery
+SARSA,19,1200,9261,0.23,0.42295258468165076,0.23,19.24,slippery
+SARSA,19,1400,10956,0.12,0.32659863237109044,0.12,12.29,slippery
+SARSA,19,1600,12762,0.22,0.4163331998932266,0.22,15.06,slippery
+SARSA,19,1800,14677,0.12,0.32659863237109044,0.12,11.59,slippery
+SARSA,19,2000,16713,0.13,0.33799766898963113,0.13,14.89,slippery
+SARSA,19,2200,18732,0.6,0.49236596391733095,0.6,37.66,slippery
+SARSA,19,2400,20770,0.41,0.49431107042371025,0.41,32.96,slippery
+SARSA,19,2600,23215,0.49,0.5024183937956913,0.49,32.42,slippery
+SARSA,19,2800,25537,0.68,0.4688261722621507,0.68,42.84,slippery
+SARSA,19,3000,28103,0.27,0.4461960433384738,0.27,20.61,slippery
+SARSA,19,3200,31090,0.5,0.502518907629606,0.5,34.13,slippery
+SARSA,19,3400,34379,0.4,0.49236596391733095,0.4,24.8,slippery
+SARSA,19,3600,38238,0.43,0.497569851956243,0.43,30.17,slippery
+SARSA,19,3800,42905,0.52,0.5021167315686782,0.52,31.5,slippery
+SARSA,19,4000,48557,0.56,0.4988876515698589,0.56,28.96,slippery
+SARSA,19,4200,54380,0.33,0.4725815626252608,0.33,21.3,slippery
+SARSA,19,4400,58951,0.56,0.49888765156985887,0.56,31.87,slippery
+SARSA,19,4600,65532,0.54,0.5009082659620331,0.54,30.11,slippery
+SARSA,19,4800,72828,0.41,0.4943110704237103,0.41,37.53,slippery
+SARSA,19,5000,79321,0.75,0.4351941398892446,0.75,42.31,slippery
+SARSA,20,1,8,0.0,0.0,0.0,7.6,slippery
+SARSA,20,200,1604,0.03,0.1714466079977653,0.03,8.27,slippery
+SARSA,20,400,3114,0.01,0.09999999999999999,0.01,8.26,slippery
+SARSA,20,600,4605,0.03,0.1714466079977653,0.03,10.11,slippery
+SARSA,20,800,6244,0.05,0.2190429135575903,0.05,8.51,slippery
+SARSA,20,1000,7740,0.24,0.42923469599092784,0.24,24.66,slippery
+SARSA,20,1200,9331,0.05,0.2190429135575903,0.05,7.29,slippery
+SARSA,20,1400,11014,0.19,0.3942772444036626,0.19,12.08,slippery
+SARSA,20,1600,12978,0.26,0.4408440022768081,0.26,19.56,slippery
+SARSA,20,1800,14898,0.09,0.2876234912646614,0.09,14.28,slippery
+SARSA,20,2000,17023,0.14,0.348735088019777,0.14,15.06,slippery
+SARSA,20,2200,19299,0.25,0.4351941398892446,0.25,23.46,slippery
+SARSA,20,2400,21584,0.13,0.3379976689896311,0.13,20.27,slippery
+SARSA,20,2600,23747,0.12,0.32659863237109044,0.12,12.83,slippery
+SARSA,20,2800,26349,0.28,0.4512608598542129,0.28,32.97,slippery
+SARSA,20,3000,29103,0.42,0.49604496374885826,0.42,29.22,slippery
+SARSA,20,3200,32371,0.45,0.5,0.45,35.12,slippery
+SARSA,20,3400,35796,0.32,0.4688261722621506,0.32,24.63,slippery
+SARSA,20,3600,39713,0.66,0.47609522856952335,0.66,38.63,slippery
+SARSA,20,3800,43542,0.35,0.4793724854411022,0.35,26.38,slippery
+SARSA,20,4000,49628,0.63,0.4852365870939097,0.63,40.24,slippery
+SARSA,20,4200,57456,0.19,0.3942772444036625,0.19,18.73,slippery
+SARSA,20,4400,63345,0.67,0.47258156262526074,0.67,37.38,slippery
+SARSA,20,4600,67767,0.4,0.49236596391733095,0.4,25.99,slippery
+SARSA,20,4800,72978,0.42,0.49604496374885826,0.42,29.62,slippery
+SARSA,20,5000,79273,0.38,0.4878317312145634,0.38,25.01,slippery
+SARSA,21,1,8,0.01,0.09999999999999999,0.01,8.23,slippery
+SARSA,21,200,1544,0.02,0.14070529413628965,0.02,6.9,slippery
+SARSA,21,400,3180,0.08,0.2726599243442907,0.08,6.9,slippery
+SARSA,21,600,4814,0.08,0.2726599243442907,0.08,8.74,slippery
+SARSA,21,800,6284,0.11,0.31446603773522014,0.11,12.42,slippery
+SARSA,21,1000,7888,0.19,0.3942772444036626,0.19,25.48,slippery
+SARSA,21,1200,9496,0.1,0.30151134457776363,0.1,12.26,slippery
+SARSA,21,1400,11163,0.18,0.38612291966536916,0.18,12.56,slippery
+SARSA,21,1600,12914,0.18,0.38612291966536916,0.18,12.75,slippery
+SARSA,21,1800,14967,0.5,0.502518907629606,0.5,31.48,slippery
+SARSA,21,2000,17065,0.09,0.2876234912646614,0.09,15.41,slippery
+SARSA,21,2200,19035,0.47,0.5016135580465918,0.47,28.35,slippery
+SARSA,21,2400,21222,0.31,0.46482319871173167,0.31,19.76,slippery
+SARSA,21,2600,23714,0.55,0.5,0.55,37.7,slippery
+SARSA,21,2800,26358,0.46,0.5009082659620331,0.46,26.17,slippery
+SARSA,21,3000,29156,0.71,0.4560480215720687,0.71,38.46,slippery
+SARSA,21,3200,31824,0.23,0.4229525846816507,0.23,15.52,slippery
+SARSA,21,3400,34915,0.2,0.4020151261036849,0.2,15.78,slippery
+SARSA,21,3600,38837,0.53,0.5016135580465918,0.53,33.52,slippery
+SARSA,21,3800,44108,0.81,0.3942772444036626,0.81,34.46,slippery
+SARSA,21,4000,49667,0.52,0.5021167315686782,0.52,27.74,slippery
+SARSA,21,4200,55085,0.52,0.5021167315686782,0.52,31.5,slippery
+SARSA,21,4400,61661,0.58,0.49604496374885826,0.58,43.08,slippery
+SARSA,21,4600,68737,0.58,0.49604496374885826,0.58,31.06,slippery
+SARSA,21,4800,76307,0.52,0.5021167315686782,0.52,33.25,slippery
+SARSA,21,5000,83839,0.74,0.44084400227680803,0.74,44.85,slippery
+SARSA,22,1,6,0.01,0.09999999999999999,0.01,7.71,slippery
+SARSA,22,200,1498,0.04,0.19694638556693236,0.04,5.5,slippery
+SARSA,22,400,3243,0.08,0.27265992434429076,0.08,5.68,slippery
+SARSA,22,600,4773,0.15,0.35887028128263676,0.15,9.47,slippery
+SARSA,22,800,6424,0.09,0.2876234912646614,0.09,6.68,slippery
+SARSA,22,1000,8012,0.08,0.27265992434429076,0.08,8.42,slippery
+SARSA,22,1200,9913,0.28,0.45126085985421294,0.28,17.61,slippery
+SARSA,22,1400,11634,0.18,0.38612291966536916,0.18,13.74,slippery
+SARSA,22,1600,13380,0.14,0.34873508801977704,0.14,25.72,slippery
+SARSA,22,1800,15328,0.2,0.4020151261036849,0.2,15.4,slippery
+SARSA,22,2000,17079,0.1,0.30151134457776363,0.1,8.34,slippery
+SARSA,22,2200,18979,0.11,0.31446603773522014,0.11,8.47,slippery
+SARSA,22,2400,20980,0.05,0.2190429135575903,0.05,8.53,slippery
+SARSA,22,2600,23112,0.29,0.4560480215720686,0.29,11.16,slippery
+SARSA,22,2800,25463,0.79,0.40936018074033237,0.79,44.1,slippery
+SARSA,22,3000,28119,0.14,0.348735088019777,0.14,12.94,slippery
+SARSA,22,3200,31034,0.65,0.4793724854411022,0.65,39.55,slippery
+SARSA,22,3400,34283,0.29,0.4560480215720686,0.29,15.65,slippery
+SARSA,22,3600,37418,0.19,0.3942772444036625,0.19,27.89,slippery
+SARSA,22,3800,42715,0.74,0.44084400227680803,0.74,41.41,slippery
+SARSA,22,4000,48541,0.58,0.49604496374885826,0.58,47.36,slippery
+SARSA,22,4200,54699,0.62,0.4878317312145634,0.62,40.3,slippery
+SARSA,22,4400,61276,0.49,0.5024183937956914,0.49,31.31,slippery
+SARSA,22,4600,68311,0.44,0.4988876515698589,0.44,25.65,slippery
+SARSA,22,4800,75954,0.72,0.45126085985421294,0.72,43.47,slippery
+SARSA,22,5000,81898,0.5,0.502518907629606,0.5,33.24,slippery
+SARSA,23,1,9,0.03,0.1714466079977653,0.03,7.44,slippery
+SARSA,23,200,1605,0.02,0.14070529413628968,0.02,7.91,slippery
+SARSA,23,400,3243,0.19,0.3942772444036625,0.19,16.04,slippery
+SARSA,23,600,4784,0.12,0.3265986323710904,0.12,19.44,slippery
+SARSA,23,800,6473,0.11,0.3144660377352202,0.11,13.42,slippery
+SARSA,23,1000,8024,0.18,0.38612291966536916,0.18,21.3,slippery
+SARSA,23,1200,10029,0.12,0.3265986323710904,0.12,10.79,slippery
+SARSA,23,1400,11877,0.46,0.5009082659620331,0.46,30.07,slippery
+SARSA,23,1600,13684,0.21,0.40936018074033237,0.21,18.51,slippery
+SARSA,23,1800,15535,0.3,0.4605661864718382,0.3,25.2,slippery
+SARSA,23,2000,17576,0.29,0.45604802157206864,0.29,21.46,slippery
+SARSA,23,2200,19611,0.22,0.4163331998932266,0.22,13.38,slippery
+SARSA,23,2400,21689,0.45,0.5,0.45,30.19,slippery
+SARSA,23,2600,24238,0.13,0.33799766898963113,0.13,14.02,slippery
+SARSA,23,2800,26508,0.51,0.5024183937956914,0.51,32.98,slippery
+SARSA,23,3000,29483,0.49,0.5024183937956914,0.49,28.16,slippery
+SARSA,23,3200,32264,0.26,0.44084400227680803,0.26,26.18,slippery
+SARSA,23,3400,35303,0.54,0.5009082659620331,0.54,32.82,slippery
+SARSA,23,3600,39168,0.44,0.4988876515698589,0.44,32.51,slippery
+SARSA,23,3800,44107,0.4,0.49236596391733095,0.4,29.46,slippery
+SARSA,23,4000,50640,0.72,0.4512608598542129,0.72,40.97,slippery
+SARSA,23,4200,56636,0.51,0.5024183937956913,0.51,30.03,slippery
+SARSA,23,4400,62122,0.5,0.502518907629606,0.5,34.0,slippery
+SARSA,23,4600,68112,0.41,0.4943110704237103,0.41,29.02,slippery
+SARSA,23,4800,73657,0.49,0.5024183937956913,0.49,33.61,slippery
+SARSA,23,5000,79108,0.3,0.4605661864718382,0.3,24.24,slippery
+SARSA,24,1,8,0.01,0.09999999999999999,0.01,6.92,slippery
+SARSA,24,200,1497,0.16,0.3684529491774707,0.16,8.05,slippery
+SARSA,24,400,3113,0.05,0.2190429135575903,0.05,6.66,slippery
+SARSA,24,600,4625,0.1,0.30151134457776363,0.1,11.94,slippery
+SARSA,24,800,6212,0.15,0.3588702812826367,0.15,8.74,slippery
+SARSA,24,1000,7950,0.51,0.5024183937956913,0.51,39.52,slippery
+SARSA,24,1200,9764,0.16,0.3684529491774707,0.16,14.71,slippery
+SARSA,24,1400,11420,0.09,0.2876234912646614,0.09,15.33,slippery
+SARSA,24,1600,13498,0.07,0.2564323999762428,0.07,7.31,slippery
+SARSA,24,1800,15397,0.19,0.3942772444036626,0.19,16.4,slippery
+SARSA,24,2000,17136,0.25,0.4351941398892446,0.25,16.11,slippery
+SARSA,24,2200,19401,0.12,0.32659863237109044,0.12,12.71,slippery
+SARSA,24,2400,21506,0.05,0.2190429135575903,0.05,8.62,slippery
+SARSA,24,2600,23662,0.55,0.5,0.55,37.15,slippery
+SARSA,24,2800,26124,0.28,0.4512608598542129,0.28,29.94,slippery
+SARSA,24,3000,28562,0.4,0.49236596391733095,0.4,26.76,slippery
+SARSA,24,3200,31628,0.12,0.3265986323710904,0.12,7.99,slippery
+SARSA,24,3400,35127,0.22,0.4163331998932266,0.22,20.85,slippery
+SARSA,24,3600,39413,0.45,0.5,0.45,28.37,slippery
+SARSA,24,3800,43602,0.63,0.4852365870939097,0.63,38.2,slippery
+SARSA,24,4000,49731,0.65,0.4793724854411022,0.65,43.28,slippery
+SARSA,24,4200,55881,0.35,0.4793724854411022,0.35,21.03,slippery
+SARSA,24,4400,60230,0.38,0.48783173121456336,0.38,23.13,slippery
+SARSA,24,4600,64877,0.42,0.49604496374885826,0.42,25.85,slippery
+SARSA,24,4800,71866,0.7,0.4605661864718382,0.7,41.29,slippery
+SARSA,24,5000,78751,0.57,0.497569851956243,0.57,34.31,slippery
+SARSA,25,1,6,0.01,0.09999999999999999,0.01,8.18,slippery
+SARSA,25,200,1652,0.01,0.09999999999999999,0.01,8.71,slippery
+SARSA,25,400,3174,0.01,0.09999999999999999,0.01,8.09,slippery
+SARSA,25,600,4754,0.13,0.33799766898963113,0.13,9.68,slippery
+SARSA,25,800,6506,0.02,0.14070529413628965,0.02,8.04,slippery
+SARSA,25,1000,8138,0.05,0.2190429135575903,0.05,15.19,slippery
+SARSA,25,1200,9927,0.21,0.4093601807403323,0.21,28.73,slippery
+SARSA,25,1400,11591,0.05,0.21904291355759034,0.05,10.37,slippery
+SARSA,25,1600,13257,0.16,0.3684529491774707,0.16,21.27,slippery
+SARSA,25,1800,14891,0.2,0.4020151261036849,0.2,18.86,slippery
+SARSA,25,2000,16519,0.11,0.3144660377352201,0.11,13.89,slippery
+SARSA,25,2200,18406,0.15,0.3588702812826367,0.15,15.73,slippery
+SARSA,25,2400,20685,0.82,0.3861229196653691,0.82,40.37,slippery
+SARSA,25,2600,22975,0.21,0.40936018074033237,0.21,23.31,slippery
+SARSA,25,2800,25575,0.11,0.31446603773522014,0.11,21.63,slippery
+SARSA,25,3000,28524,0.42,0.49604496374885826,0.42,26.13,slippery
+SARSA,25,3200,31418,0.38,0.48783173121456336,0.38,24.54,slippery
+SARSA,25,3400,34356,0.41,0.4943110704237103,0.41,25.21,slippery
+SARSA,25,3600,38558,0.5,0.502518907629606,0.5,29.56,slippery
+SARSA,25,3800,43587,0.63,0.48523658709390977,0.63,36.67,slippery
+SARSA,25,4000,48910,0.41,0.4943110704237103,0.41,27.27,slippery
+SARSA,25,4200,53926,0.38,0.48783173121456336,0.38,24.56,slippery
+SARSA,25,4400,59161,0.37,0.4852365870939097,0.37,31.54,slippery
+SARSA,25,4600,65944,0.54,0.5009082659620331,0.54,28.47,slippery
+SARSA,25,4800,71080,0.49,0.5024183937956914,0.49,27.02,slippery
+SARSA,25,5000,75619,0.52,0.5021167315686782,0.52,35.4,slippery
+SARSA,26,1,9,0.03,0.1714466079977653,0.03,6.85,slippery
+SARSA,26,200,1512,0.04,0.19694638556693236,0.04,5.62,slippery
+SARSA,26,400,3030,0.12,0.32659863237109044,0.12,13.51,slippery
+SARSA,26,600,4461,0.14,0.348735088019777,0.14,13.27,slippery
+SARSA,26,800,5959,0.12,0.3265986323710904,0.12,22.93,slippery
+SARSA,26,1000,7591,0.11,0.31446603773522014,0.11,19.19,slippery
+SARSA,26,1200,9308,0.16,0.3684529491774707,0.16,11.41,slippery
+SARSA,26,1400,11045,0.11,0.31446603773522014,0.11,10.23,slippery
+SARSA,26,1600,12817,0.3,0.4605661864718382,0.3,25.6,slippery
+SARSA,26,1800,14738,0.08,0.2726599243442907,0.08,6.52,slippery
+SARSA,26,2000,16617,0.2,0.4020151261036849,0.2,14.99,slippery
+SARSA,26,2200,18627,0.38,0.4878317312145634,0.38,28.81,slippery
+SARSA,26,2400,20875,0.17,0.3775251680686369,0.17,16.74,slippery
+SARSA,26,2600,23120,0.16,0.3684529491774706,0.16,11.7,slippery
+SARSA,26,2800,25318,0.29,0.45604802157206864,0.29,20.65,slippery
+SARSA,26,3000,27717,0.05,0.2190429135575903,0.05,8.41,slippery
+SARSA,26,3200,30759,0.11,0.3144660377352202,0.11,10.88,slippery
+SARSA,26,3400,33958,0.26,0.4408440022768081,0.26,22.3,slippery
+SARSA,26,3600,37431,0.63,0.4852365870939097,0.63,36.06,slippery
+SARSA,26,3800,42320,0.39,0.4902071300001973,0.39,27.54,slippery
+SARSA,26,4000,48135,0.51,0.5024183937956914,0.51,32.48,slippery
+SARSA,26,4200,55854,0.75,0.4351941398892446,0.75,41.8,slippery
+SARSA,26,4400,63580,0.54,0.5009082659620331,0.54,47.59,slippery
+SARSA,26,4600,70817,0.67,0.47258156262526085,0.67,42.95,slippery
+SARSA,26,4800,77813,0.48,0.5021167315686782,0.48,34.96,slippery
+SARSA,26,5000,83407,0.38,0.4878317312145633,0.38,27.88,slippery
+SARSA,27,1,19,0.02,0.14070529413628968,0.02,7.98,slippery
+SARSA,27,200,1539,0.01,0.09999999999999999,0.01,7.87,slippery
+SARSA,27,400,3044,0.11,0.31446603773522014,0.11,10.42,slippery
+SARSA,27,600,4759,0.03,0.1714466079977653,0.03,7.71,slippery
+SARSA,27,800,6398,0.1,0.30151134457776363,0.1,13.39,slippery
+SARSA,27,1000,7870,0.06,0.23868325657594203,0.06,9.43,slippery
+SARSA,27,1200,9555,0.1,0.30151134457776363,0.1,11.02,slippery
+SARSA,27,1400,11168,0.09,0.2876234912646614,0.09,9.45,slippery
+SARSA,27,1600,12949,0.14,0.348735088019777,0.14,16.35,slippery
+SARSA,27,1800,14812,0.07,0.25643239997624273,0.07,13.1,slippery
+SARSA,27,2000,16514,0.25,0.4351941398892446,0.25,20.66,slippery
+SARSA,27,2200,18620,0.24,0.42923469599092784,0.24,23.99,slippery
+SARSA,27,2400,20651,0.09,0.2876234912646614,0.09,15.47,slippery
+SARSA,27,2600,23264,0.46,0.5009082659620331,0.46,29.26,slippery
+SARSA,27,2800,25604,0.29,0.4560480215720686,0.29,23.71,slippery
+SARSA,27,3000,28311,0.45,0.5,0.45,24.61,slippery
+SARSA,27,3200,30793,0.18,0.38612291966536916,0.18,12.38,slippery
+SARSA,27,3400,33891,0.57,0.497569851956243,0.57,38.5,slippery
+SARSA,27,3600,37989,0.51,0.5024183937956913,0.51,27.69,slippery
+SARSA,27,3800,42196,0.37,0.48523658709390977,0.37,24.58,slippery
+SARSA,27,4000,48198,0.71,0.45604802157206864,0.71,40.99,slippery
+SARSA,27,4200,55835,0.72,0.45126085985421294,0.72,40.5,slippery
+SARSA,27,4400,63635,0.55,0.5,0.55,31.08,slippery
+SARSA,27,4600,69591,0.75,0.4351941398892446,0.75,39.06,slippery
+SARSA,27,4800,76240,0.52,0.5021167315686782,0.52,30.54,slippery
+SARSA,27,5000,82315,0.5,0.502518907629606,0.5,32.05,slippery
+SARSA,28,1,8,0.02,0.14070529413628968,0.02,7.9,slippery
+SARSA,28,200,1469,0.01,0.09999999999999999,0.01,6.07,slippery
+SARSA,28,400,3061,0.14,0.348735088019777,0.14,13.76,slippery
+SARSA,28,600,4740,0.08,0.2726599243442907,0.08,7.32,slippery
+SARSA,28,800,6276,0.12,0.32659863237109044,0.12,9.94,slippery
+SARSA,28,1000,7830,0.11,0.31446603773522014,0.11,16.78,slippery
+SARSA,28,1200,9601,0.06,0.238683256575942,0.06,7.6,slippery
+SARSA,28,1400,11443,0.11,0.31446603773522014,0.11,13.95,slippery
+SARSA,28,1600,13149,0.14,0.348735088019777,0.14,21.35,slippery
+SARSA,28,1800,14922,0.14,0.348735088019777,0.14,16.36,slippery
+SARSA,28,2000,16846,0.15,0.3588702812826367,0.15,15.14,slippery
+SARSA,28,2200,18876,0.43,0.497569851956243,0.43,24.64,slippery
+SARSA,28,2400,21372,0.42,0.49604496374885826,0.42,32.14,slippery
+SARSA,28,2600,23818,0.31,0.4648231987117317,0.31,26.75,slippery
+SARSA,28,2800,26507,0.52,0.5021167315686782,0.52,27.47,slippery
+SARSA,28,3000,28955,0.26,0.4408440022768081,0.26,20.24,slippery
+SARSA,28,3200,32148,0.33,0.4725815626252608,0.33,34.15,slippery
+SARSA,28,3400,35549,0.48,0.5021167315686782,0.48,28.82,slippery
+SARSA,28,3600,39754,0.63,0.4852365870939097,0.63,35.4,slippery
+SARSA,28,3800,44310,0.45,0.5,0.45,32.28,slippery
+SARSA,28,4000,49589,0.52,0.5021167315686782,0.52,29.54,slippery
+SARSA,28,4200,56021,0.52,0.5021167315686782,0.52,29.11,slippery
+SARSA,28,4400,62512,0.5,0.502518907629606,0.5,33.36,slippery
+SARSA,28,4600,69665,0.5,0.502518907629606,0.5,30.77,slippery
+SARSA,28,4800,75908,0.69,0.4648231987117317,0.69,44.53,slippery
+SARSA,28,5000,83216,0.6,0.49236596391733095,0.6,36.74,slippery
+SARSA,29,1,13,0.02,0.14070529413628965,0.02,9.43,slippery
+SARSA,29,200,1453,0.01,0.09999999999999999,0.01,7.72,slippery
+SARSA,29,400,2987,0.03,0.1714466079977653,0.03,5.36,slippery
+SARSA,29,600,4460,0.05,0.2190429135575903,0.05,10.64,slippery
+SARSA,29,800,6187,0.06,0.238683256575942,0.06,10.23,slippery
+SARSA,29,1000,7861,0.15,0.3588702812826367,0.15,19.03,slippery
+SARSA,29,1200,9563,0.2,0.4020151261036849,0.2,19.55,slippery
+SARSA,29,1400,11324,0.16,0.3684529491774707,0.16,18.94,slippery
+SARSA,29,1600,13151,0.22,0.4163331998932266,0.22,20.89,slippery
+SARSA,29,1800,15076,0.21,0.40936018074033237,0.21,29.0,slippery
+SARSA,29,2000,17034,0.09,0.2876234912646614,0.09,7.34,slippery
+SARSA,29,2200,18961,0.1,0.30151134457776363,0.1,9.48,slippery
+SARSA,29,2400,21047,0.2,0.4020151261036849,0.2,19.84,slippery
+SARSA,29,2600,23490,0.44,0.4988876515698589,0.44,33.7,slippery
+SARSA,29,2800,25995,0.17,0.3775251680686369,0.17,15.79,slippery
+SARSA,29,3000,28619,0.78,0.4163331998932266,0.78,43.33,slippery
+SARSA,29,3200,31801,0.2,0.4020151261036849,0.2,18.91,slippery
+SARSA,29,3400,34583,0.21,0.40936018074033237,0.21,12.81,slippery
+SARSA,29,3600,37899,0.25,0.4351941398892446,0.25,20.05,slippery
+SARSA,29,3800,41782,0.62,0.48783173121456336,0.62,38.42,slippery
+SARSA,29,4000,48209,0.46,0.5009082659620331,0.46,31.52,slippery
+SARSA,29,4200,54404,0.53,0.5016135580465918,0.53,33.38,slippery
+SARSA,29,4400,60359,0.68,0.4688261722621507,0.68,39.84,slippery
+SARSA,29,4600,68100,0.64,0.4824181513244218,0.64,43.62,slippery
+SARSA,29,4800,74474,0.51,0.5024183937956913,0.51,26.52,slippery
+SARSA,29,5000,79888,0.61,0.4902071300001973,0.61,40.95,slippery
+Expected SARSA,0,1,12,0.01,0.09999999999999999,0.01,7.49,slippery
+Expected SARSA,0,200,1674,0.04,0.19694638556693236,0.04,9.51,slippery
+Expected SARSA,0,400,3068,0.04,0.19694638556693236,0.04,11.1,slippery
+Expected SARSA,0,600,4666,0.07,0.2564323999762428,0.07,11.13,slippery
+Expected SARSA,0,800,6440,0.06,0.23868325657594203,0.06,8.22,slippery
+Expected SARSA,0,1000,8074,0.15,0.3588702812826367,0.15,21.9,slippery
+Expected SARSA,0,1200,9612,0.06,0.23868325657594203,0.06,12.47,slippery
+Expected SARSA,0,1400,11405,0.11,0.3144660377352202,0.11,9.68,slippery
+Expected SARSA,0,1600,13069,0.26,0.4408440022768081,0.26,26.39,slippery
+Expected SARSA,0,1800,14881,0.44,0.4988876515698589,0.44,34.36,slippery
+Expected SARSA,0,2000,17043,0.41,0.4943110704237103,0.41,32.02,slippery
+Expected SARSA,0,2200,19225,0.19,0.3942772444036625,0.19,10.47,slippery
+Expected SARSA,0,2400,21578,0.15,0.3588702812826367,0.15,13.78,slippery
+Expected SARSA,0,2600,24214,0.29,0.4560480215720686,0.29,23.13,slippery
+Expected SARSA,0,2800,26941,0.14,0.348735088019777,0.14,10.66,slippery
+Expected SARSA,0,3000,29736,0.13,0.3379976689896311,0.13,6.65,slippery
+Expected SARSA,0,3200,32422,0.26,0.44084400227680803,0.26,21.26,slippery
+Expected SARSA,0,3400,35640,0.31,0.4648231987117316,0.31,29.43,slippery
+Expected SARSA,0,3600,39378,0.13,0.3379976689896311,0.13,10.07,slippery
+Expected SARSA,0,3800,43872,0.41,0.4943110704237103,0.41,24.38,slippery
+Expected SARSA,0,4000,49309,0.43,0.497569851956243,0.43,31.38,slippery
+Expected SARSA,0,4200,55582,0.73,0.4461960433384737,0.73,36.02,slippery
+Expected SARSA,0,4400,62320,0.72,0.45126085985421294,0.72,32.88,slippery
+Expected SARSA,0,4600,69123,0.69,0.46482319871173167,0.69,38.77,slippery
+Expected SARSA,0,4800,75073,0.16,0.3684529491774706,0.16,13.95,slippery
+Expected SARSA,0,5000,79854,0.31,0.46482319871173167,0.31,23.15,slippery
+Expected SARSA,1,1,4,0.01,0.09999999999999999,0.01,7.63,slippery
+Expected SARSA,1,200,1621,0.09,0.2876234912646614,0.09,13.1,slippery
+Expected SARSA,1,400,3272,0.45,0.5,0.45,31.89,slippery
+Expected SARSA,1,600,4881,0.21,0.40936018074033237,0.21,22.01,slippery
+Expected SARSA,1,800,6481,0.09,0.2876234912646614,0.09,10.83,slippery
+Expected SARSA,1,1000,8108,0.08,0.2726599243442907,0.08,13.72,slippery
+Expected SARSA,1,1200,9944,0.07,0.2564323999762428,0.07,8.91,slippery
+Expected SARSA,1,1400,11747,0.12,0.3265986323710904,0.12,20.83,slippery
+Expected SARSA,1,1600,13656,0.12,0.3265986323710904,0.12,20.02,slippery
+Expected SARSA,1,1800,15533,0.5,0.502518907629606,0.5,33.72,slippery
+Expected SARSA,1,2000,17569,0.11,0.31446603773522014,0.11,11.0,slippery
+Expected SARSA,1,2200,19544,0.33,0.4725815626252608,0.33,24.02,slippery
+Expected SARSA,1,2400,21759,0.48,0.5021167315686782,0.48,33.12,slippery
+Expected SARSA,1,2600,24104,0.21,0.40936018074033237,0.21,21.74,slippery
+Expected SARSA,1,2800,26576,0.61,0.4902071300001973,0.61,43.63,slippery
+Expected SARSA,1,3000,29285,0.1,0.30151134457776363,0.1,10.6,slippery
+Expected SARSA,1,3200,32275,0.2,0.4020151261036849,0.2,16.51,slippery
+Expected SARSA,1,3400,35480,0.49,0.5024183937956913,0.49,37.64,slippery
+Expected SARSA,1,3600,39497,0.57,0.497569851956243,0.57,42.65,slippery
+Expected SARSA,1,3800,43740,0.26,0.44084400227680803,0.26,17.92,slippery
+Expected SARSA,1,4000,48144,0.43,0.497569851956243,0.43,27.25,slippery
+Expected SARSA,1,4200,53053,0.34,0.47609522856952335,0.34,24.89,slippery
+Expected SARSA,1,4400,57054,0.41,0.4943110704237103,0.41,20.62,slippery
+Expected SARSA,1,4600,61888,0.43,0.497569851956243,0.43,27.88,slippery
+Expected SARSA,1,4800,67385,0.16,0.3684529491774707,0.16,14.58,slippery
+Expected SARSA,1,5000,73077,0.53,0.5016135580465918,0.53,32.27,slippery
+Expected SARSA,2,1,7,0.0,0.0,0.0,8.2,slippery
+Expected SARSA,2,200,1496,0.15,0.35887028128263665,0.15,9.9,slippery
+Expected SARSA,2,400,3215,0.03,0.1714466079977653,0.03,10.76,slippery
+Expected SARSA,2,600,4813,0.06,0.238683256575942,0.06,8.07,slippery
+Expected SARSA,2,800,6330,0.08,0.27265992434429076,0.08,9.58,slippery
+Expected SARSA,2,1000,8071,0.12,0.32659863237109044,0.12,15.47,slippery
+Expected SARSA,2,1200,9900,0.12,0.32659863237109044,0.12,7.38,slippery
+Expected SARSA,2,1400,11643,0.04,0.1969463855669324,0.04,8.98,slippery
+Expected SARSA,2,1600,13485,0.14,0.348735088019777,0.14,24.36,slippery
+Expected SARSA,2,1800,15315,0.27,0.4461960433384737,0.27,19.36,slippery
+Expected SARSA,2,2000,17345,0.11,0.31446603773522014,0.11,10.32,slippery
+Expected SARSA,2,2200,19318,0.25,0.4351941398892446,0.25,12.51,slippery
+Expected SARSA,2,2400,21631,0.34,0.47609522856952335,0.34,27.82,slippery
+Expected SARSA,2,2600,24286,0.32,0.4688261722621506,0.32,23.18,slippery
+Expected SARSA,2,2800,26962,0.69,0.46482319871173167,0.69,36.35,slippery
+Expected SARSA,2,3000,29697,0.25,0.4351941398892446,0.25,20.94,slippery
+Expected SARSA,2,3200,32832,0.58,0.49604496374885826,0.58,33.68,slippery
+Expected SARSA,2,3400,36091,0.13,0.33799766898963113,0.13,18.23,slippery
+Expected SARSA,2,3600,39638,0.48,0.5021167315686782,0.48,33.33,slippery
+Expected SARSA,2,3800,43880,0.47,0.5016135580465918,0.47,30.01,slippery
+Expected SARSA,2,4000,50230,0.8,0.40201512610368484,0.8,43.61,slippery
+Expected SARSA,2,4200,56639,0.36,0.4824181513244218,0.36,27.61,slippery
+Expected SARSA,2,4400,61900,0.19,0.3942772444036626,0.19,22.24,slippery
+Expected SARSA,2,4600,68578,0.71,0.4560480215720687,0.71,42.67,slippery
+Expected SARSA,2,4800,75898,0.57,0.497569851956243,0.57,41.01,slippery
+Expected SARSA,2,5000,80973,0.35,0.4793724854411022,0.35,26.42,slippery
+Expected SARSA,3,1,7,0.02,0.14070529413628965,0.02,7.87,slippery
+Expected SARSA,3,200,1576,0.05,0.21904291355759034,0.05,6.77,slippery
+Expected SARSA,3,400,3156,0.13,0.3379976689896311,0.13,8.77,slippery
+Expected SARSA,3,600,4756,0.13,0.3379976689896311,0.13,10.28,slippery
+Expected SARSA,3,800,6304,0.04,0.1969463855669324,0.04,7.17,slippery
+Expected SARSA,3,1000,7848,0.03,0.1714466079977653,0.03,6.36,slippery
+Expected SARSA,3,1200,9520,0.16,0.3684529491774706,0.16,14.95,slippery
+Expected SARSA,3,1400,11214,0.32,0.4688261722621506,0.32,27.99,slippery
+Expected SARSA,3,1600,13102,0.07,0.2564323999762428,0.07,6.14,slippery
+Expected SARSA,3,1800,15020,0.18,0.38612291966536916,0.18,14.03,slippery
+Expected SARSA,3,2000,17146,0.07,0.2564323999762428,0.07,10.25,slippery
+Expected SARSA,3,2200,19265,0.14,0.34873508801977704,0.14,16.97,slippery
+Expected SARSA,3,2400,21562,0.43,0.497569851956243,0.43,26.34,slippery
+Expected SARSA,3,2600,23788,0.4,0.49236596391733095,0.4,25.08,slippery
+Expected SARSA,3,2800,26377,0.62,0.4878317312145633,0.62,39.79,slippery
+Expected SARSA,3,3000,29164,0.41,0.4943110704237103,0.41,25.86,slippery
+Expected SARSA,3,3200,32231,0.15,0.3588702812826367,0.15,12.36,slippery
+Expected SARSA,3,3400,35486,0.38,0.48783173121456336,0.38,30.51,slippery
+Expected SARSA,3,3600,39705,0.6,0.49236596391733095,0.6,36.46,slippery
+Expected SARSA,3,3800,44761,0.62,0.4878317312145634,0.62,43.67,slippery
+Expected SARSA,3,4000,49809,0.39,0.4902071300001973,0.39,31.44,slippery
+Expected SARSA,3,4200,56583,0.75,0.4351941398892446,0.75,39.81,slippery
+Expected SARSA,3,4400,64034,0.72,0.4512608598542129,0.72,38.7,slippery
+Expected SARSA,3,4600,70449,0.77,0.4229525846816507,0.77,40.02,slippery
+Expected SARSA,3,4800,77518,0.74,0.44084400227680803,0.74,39.69,slippery
+Expected SARSA,3,5000,83653,0.73,0.4461960433384737,0.73,39.9,slippery
+Expected SARSA,4,1,25,0.03,0.1714466079977653,0.03,8.16,slippery
+Expected SARSA,4,200,1515,0.25,0.4351941398892446,0.25,28.17,slippery
+Expected SARSA,4,400,3008,0.1,0.30151134457776363,0.1,6.78,slippery
+Expected SARSA,4,600,4581,0.06,0.23868325657594203,0.06,7.42,slippery
+Expected SARSA,4,800,6093,0.36,0.4824181513244218,0.36,27.83,slippery
+Expected SARSA,4,1000,7821,0.09,0.2876234912646614,0.09,6.71,slippery
+Expected SARSA,4,1200,9362,0.19,0.3942772444036625,0.19,13.97,slippery
+Expected SARSA,4,1400,11112,0.12,0.32659863237109044,0.12,12.66,slippery
+Expected SARSA,4,1600,13016,0.18,0.38612291966536916,0.18,13.64,slippery
+Expected SARSA,4,1800,15090,0.21,0.40936018074033237,0.21,22.91,slippery
+Expected SARSA,4,2000,17272,0.15,0.3588702812826367,0.15,16.18,slippery
+Expected SARSA,4,2200,19281,0.11,0.31446603773522014,0.11,15.59,slippery
+Expected SARSA,4,2400,21386,0.19,0.3942772444036626,0.19,12.15,slippery
+Expected SARSA,4,2600,23736,0.21,0.40936018074033237,0.21,16.23,slippery
+Expected SARSA,4,2800,26457,0.29,0.4560480215720686,0.29,23.19,slippery
+Expected SARSA,4,3000,29051,0.23,0.42295258468165076,0.23,31.73,slippery
+Expected SARSA,4,3200,31537,0.34,0.47609522856952335,0.34,24.37,slippery
+Expected SARSA,4,3400,35234,0.36,0.4824181513244218,0.36,33.73,slippery
+Expected SARSA,4,3600,40130,0.54,0.5009082659620331,0.54,32.58,slippery
+Expected SARSA,4,3800,44143,0.42,0.49604496374885826,0.42,31.61,slippery
+Expected SARSA,4,4000,50436,0.61,0.4902071300001973,0.61,43.93,slippery
+Expected SARSA,4,4200,57340,0.37,0.4852365870939097,0.37,25.33,slippery
+Expected SARSA,4,4400,61848,0.58,0.49604496374885826,0.58,31.42,slippery
+Expected SARSA,4,4600,67651,0.57,0.497569851956243,0.57,30.4,slippery
+Expected SARSA,4,4800,74670,0.29,0.4560480215720686,0.29,26.03,slippery
+Expected SARSA,4,5000,79948,0.45,0.5,0.45,28.32,slippery
+Expected SARSA,5,1,18,0.01,0.09999999999999999,0.01,7.94,slippery
+Expected SARSA,5,200,1454,0.07,0.2564323999762428,0.07,11.16,slippery
+Expected SARSA,5,400,2947,0.14,0.34873508801977704,0.14,20.29,slippery
+Expected SARSA,5,600,4524,0.15,0.3588702812826367,0.15,12.78,slippery
+Expected SARSA,5,800,6064,0.17,0.3775251680686369,0.17,20.33,slippery
+Expected SARSA,5,1000,7692,0.08,0.2726599243442907,0.08,8.4,slippery
+Expected SARSA,5,1200,9440,0.14,0.34873508801977704,0.14,13.76,slippery
+Expected SARSA,5,1400,11043,0.12,0.3265986323710904,0.12,13.52,slippery
+Expected SARSA,5,1600,12871,0.12,0.3265986323710904,0.12,12.83,slippery
+Expected SARSA,5,1800,14786,0.18,0.38612291966536916,0.18,23.06,slippery
+Expected SARSA,5,2000,16789,0.11,0.31446603773522014,0.11,9.04,slippery
+Expected SARSA,5,2200,19083,0.07,0.25643239997624273,0.07,15.0,slippery
+Expected SARSA,5,2400,21451,0.14,0.348735088019777,0.14,19.38,slippery
+Expected SARSA,5,2600,23765,0.32,0.4688261722621506,0.32,20.95,slippery
+Expected SARSA,5,2800,26432,0.21,0.40936018074033237,0.21,19.3,slippery
+Expected SARSA,5,3000,29019,0.17,0.3775251680686369,0.17,12.69,slippery
+Expected SARSA,5,3200,31775,0.17,0.3775251680686369,0.17,14.77,slippery
+Expected SARSA,5,3400,35103,0.29,0.4560480215720686,0.29,21.26,slippery
+Expected SARSA,5,3600,38688,0.67,0.47258156262526074,0.67,42.82,slippery
+Expected SARSA,5,3800,43476,0.54,0.5009082659620331,0.54,27.38,slippery
+Expected SARSA,5,4000,49187,0.15,0.3588702812826367,0.15,15.59,slippery
+Expected SARSA,5,4200,54973,0.25,0.4351941398892446,0.25,18.26,slippery
+Expected SARSA,5,4400,60906,0.73,0.4461960433384737,0.73,41.06,slippery
+Expected SARSA,5,4600,67862,0.29,0.45604802157206864,0.29,29.28,slippery
+Expected SARSA,5,4800,74846,0.61,0.4902071300001973,0.61,31.59,slippery
+Expected SARSA,5,5000,80997,0.55,0.5,0.55,32.3,slippery
+Expected SARSA,6,1,3,0.02,0.14070529413628968,0.02,7.93,slippery
+Expected SARSA,6,200,1553,0.03,0.1714466079977653,0.03,7.6,slippery
+Expected SARSA,6,400,3063,0.1,0.30151134457776363,0.1,10.12,slippery
+Expected SARSA,6,600,4690,0.06,0.238683256575942,0.06,16.17,slippery
+Expected SARSA,6,800,6265,0.06,0.238683256575942,0.06,9.48,slippery
+Expected SARSA,6,1000,7801,0.11,0.3144660377352202,0.11,9.18,slippery
+Expected SARSA,6,1200,9316,0.11,0.3144660377352202,0.11,7.77,slippery
+Expected SARSA,6,1400,11009,0.16,0.3684529491774706,0.16,12.24,slippery
+Expected SARSA,6,1600,12903,0.1,0.30151134457776363,0.1,9.85,slippery
+Expected SARSA,6,1800,14848,0.14,0.348735088019777,0.14,11.57,slippery
+Expected SARSA,6,2000,17053,0.19,0.3942772444036626,0.19,18.65,slippery
+Expected SARSA,6,2200,19506,0.28,0.4512608598542128,0.28,23.12,slippery
+Expected SARSA,6,2400,21862,0.15,0.35887028128263665,0.15,19.34,slippery
+Expected SARSA,6,2600,24028,0.05,0.2190429135575903,0.05,7.86,slippery
+Expected SARSA,6,2800,26820,0.37,0.4852365870939097,0.37,21.94,slippery
+Expected SARSA,6,3000,29679,0.65,0.4793724854411022,0.65,37.45,slippery
+Expected SARSA,6,3200,32402,0.18,0.38612291966536916,0.18,13.52,slippery
+Expected SARSA,6,3400,35993,0.22,0.41633319989322654,0.22,27.32,slippery
+Expected SARSA,6,3600,39746,0.66,0.47609522856952335,0.66,42.23,slippery
+Expected SARSA,6,3800,45028,0.49,0.5024183937956914,0.49,32.71,slippery
+Expected SARSA,6,4000,50307,0.51,0.5024183937956913,0.51,30.69,slippery
+Expected SARSA,6,4200,56947,0.55,0.5,0.55,38.86,slippery
+Expected SARSA,6,4400,63009,0.35,0.4793724854411022,0.35,32.03,slippery
+Expected SARSA,6,4600,69555,0.47,0.5016135580465918,0.47,33.51,slippery
+Expected SARSA,6,4800,74813,0.13,0.3379976689896311,0.13,18.94,slippery
+Expected SARSA,6,5000,79947,0.43,0.497569851956243,0.43,26.07,slippery
+Expected SARSA,7,1,6,0.03,0.1714466079977653,0.03,8.38,slippery
+Expected SARSA,7,200,1567,0.11,0.31446603773522014,0.11,4.62,slippery
+Expected SARSA,7,400,3105,0.13,0.3379976689896311,0.13,11.06,slippery
+Expected SARSA,7,600,4651,0.09,0.2876234912646614,0.09,10.67,slippery
+Expected SARSA,7,800,6291,0.18,0.38612291966536916,0.18,15.91,slippery
+Expected SARSA,7,1000,7956,0.29,0.4560480215720686,0.29,26.86,slippery
+Expected SARSA,7,1200,9840,0.31,0.46482319871173167,0.31,13.61,slippery
+Expected SARSA,7,1400,11665,0.3,0.4605661864718382,0.3,20.02,slippery
+Expected SARSA,7,1600,13622,0.12,0.32659863237109044,0.12,9.34,slippery
+Expected SARSA,7,1800,15568,0.32,0.4688261722621506,0.32,26.06,slippery
+Expected SARSA,7,2000,17634,0.27,0.4461960433384737,0.27,23.91,slippery
+Expected SARSA,7,2200,19763,0.23,0.42295258468165076,0.23,27.86,slippery
+Expected SARSA,7,2400,22013,0.41,0.4943110704237103,0.41,35.09,slippery
+Expected SARSA,7,2600,24533,0.08,0.2726599243442907,0.08,10.38,slippery
+Expected SARSA,7,2800,27173,0.27,0.44619604333847374,0.27,22.13,slippery
+Expected SARSA,7,3000,30117,0.76,0.42923469599092784,0.76,40.53,slippery
+Expected SARSA,7,3200,33414,0.24,0.42923469599092784,0.24,23.36,slippery
+Expected SARSA,7,3400,37071,0.47,0.5016135580465918,0.47,31.28,slippery
+Expected SARSA,7,3600,41089,0.09,0.2876234912646614,0.09,10.21,slippery
+Expected SARSA,7,3800,45926,0.38,0.4878317312145634,0.38,27.71,slippery
+Expected SARSA,7,4000,51491,0.62,0.4878317312145634,0.62,46.68,slippery
+Expected SARSA,7,4200,56584,0.24,0.42923469599092784,0.24,18.84,slippery
+Expected SARSA,7,4400,61489,0.53,0.5016135580465918,0.53,36.11,slippery
+Expected SARSA,7,4600,67583,0.51,0.5024183937956914,0.51,33.94,slippery
+Expected SARSA,7,4800,73060,0.58,0.4960449637488583,0.58,42.96,slippery
+Expected SARSA,7,5000,78911,0.57,0.497569851956243,0.57,31.23,slippery
+Expected SARSA,8,1,10,0.03,0.1714466079977653,0.03,7.39,slippery
+Expected SARSA,8,200,1531,0.16,0.3684529491774706,0.16,12.19,slippery
+Expected SARSA,8,400,3122,0.08,0.27265992434429076,0.08,10.69,slippery
+Expected SARSA,8,600,4675,0.11,0.3144660377352202,0.11,14.57,slippery
+Expected SARSA,8,800,6356,0.09,0.2876234912646614,0.09,7.29,slippery
+Expected SARSA,8,1000,7985,0.13,0.3379976689896311,0.13,19.59,slippery
+Expected SARSA,8,1200,9613,0.16,0.3684529491774707,0.16,16.88,slippery
+Expected SARSA,8,1400,11472,0.15,0.3588702812826367,0.15,14.82,slippery
+Expected SARSA,8,1600,13269,0.2,0.40201512610368484,0.2,9.48,slippery
+Expected SARSA,8,1800,15135,0.08,0.27265992434429076,0.08,7.37,slippery
+Expected SARSA,8,2000,17210,0.14,0.348735088019777,0.14,12.73,slippery
+Expected SARSA,8,2200,19122,0.29,0.45604802157206864,0.29,21.97,slippery
+Expected SARSA,8,2400,21176,0.28,0.4512608598542129,0.28,19.88,slippery
+Expected SARSA,8,2600,23300,0.56,0.49888765156985887,0.56,32.76,slippery
+Expected SARSA,8,2800,26114,0.16,0.3684529491774706,0.16,14.65,slippery
+Expected SARSA,8,3000,28625,0.29,0.4560480215720686,0.29,14.99,slippery
+Expected SARSA,8,3200,31071,0.23,0.4229525846816507,0.23,18.54,slippery
+Expected SARSA,8,3400,34341,0.44,0.4988876515698589,0.44,38.39,slippery
+Expected SARSA,8,3600,38582,0.58,0.49604496374885826,0.58,37.13,slippery
+Expected SARSA,8,3800,43819,0.23,0.4229525846816507,0.23,21.24,slippery
+Expected SARSA,8,4000,50378,0.69,0.46482319871173167,0.69,40.15,slippery
+Expected SARSA,8,4200,57019,0.35,0.4793724854411022,0.35,26.52,slippery
+Expected SARSA,8,4400,62742,0.46,0.5009082659620331,0.46,27.44,slippery
+Expected SARSA,8,4600,68502,0.5,0.502518907629606,0.5,24.33,slippery
+Expected SARSA,8,4800,74985,0.49,0.5024183937956913,0.49,32.38,slippery
+Expected SARSA,8,5000,82277,0.58,0.49604496374885826,0.58,42.57,slippery
+Expected SARSA,9,1,9,0.03,0.1714466079977653,0.03,7.46,slippery
+Expected SARSA,9,200,1521,0.11,0.31446603773522014,0.11,9.67,slippery
+Expected SARSA,9,400,2957,0.04,0.19694638556693236,0.04,6.33,slippery
+Expected SARSA,9,600,4526,0.01,0.09999999999999999,0.01,5.21,slippery
+Expected SARSA,9,800,6258,0.05,0.2190429135575903,0.05,10.32,slippery
+Expected SARSA,9,1000,7943,0.21,0.40936018074033237,0.21,25.31,slippery
+Expected SARSA,9,1200,9815,0.17,0.3775251680686369,0.17,14.69,slippery
+Expected SARSA,9,1400,11639,0.09,0.2876234912646614,0.09,15.11,slippery
+Expected SARSA,9,1600,13463,0.06,0.23868325657594203,0.06,13.25,slippery
+Expected SARSA,9,1800,15407,0.37,0.4852365870939097,0.37,38.99,slippery
+Expected SARSA,9,2000,17339,0.2,0.4020151261036849,0.2,28.49,slippery
+Expected SARSA,9,2200,19633,0.11,0.31446603773522014,0.11,14.1,slippery
+Expected SARSA,9,2400,21931,0.57,0.497569851956243,0.57,34.93,slippery
+Expected SARSA,9,2600,24582,0.16,0.3684529491774707,0.16,8.74,slippery
+Expected SARSA,9,2800,27096,0.17,0.3775251680686369,0.17,20.71,slippery
+Expected SARSA,9,3000,30054,0.69,0.4648231987117317,0.69,43.87,slippery
+Expected SARSA,9,3200,33785,0.6,0.49236596391733095,0.6,46.73,slippery
+Expected SARSA,9,3400,37028,0.4,0.49236596391733095,0.4,23.96,slippery
+Expected SARSA,9,3600,40418,0.63,0.4852365870939097,0.63,46.42,slippery
+Expected SARSA,9,3800,45112,0.48,0.5021167315686782,0.48,26.35,slippery
+Expected SARSA,9,4000,51147,0.33,0.4725815626252608,0.33,24.32,slippery
+Expected SARSA,9,4200,57688,0.21,0.40936018074033237,0.21,14.78,slippery
+Expected SARSA,9,4400,63505,0.34,0.47609522856952335,0.34,30.47,slippery
+Expected SARSA,9,4600,69284,0.51,0.5024183937956914,0.51,30.72,slippery
+Expected SARSA,9,4800,75211,0.46,0.5009082659620331,0.46,31.35,slippery
+Expected SARSA,9,5000,81792,0.74,0.44084400227680803,0.74,39.53,slippery
+Expected SARSA,10,1,6,0.02,0.14070529413628965,0.02,8.62,slippery
+Expected SARSA,10,200,1636,0.17,0.3775251680686369,0.17,13.99,slippery
+Expected SARSA,10,400,3146,0.13,0.3379976689896311,0.13,16.88,slippery
+Expected SARSA,10,600,4815,0.1,0.30151134457776363,0.1,14.78,slippery
+Expected SARSA,10,800,6332,0.19,0.3942772444036625,0.19,20.35,slippery
+Expected SARSA,10,1000,8036,0.14,0.348735088019777,0.14,12.95,slippery
+Expected SARSA,10,1200,9798,0.2,0.40201512610368484,0.2,26.97,slippery
+Expected SARSA,10,1400,11622,0.05,0.2190429135575903,0.05,11.21,slippery
+Expected SARSA,10,1600,13441,0.04,0.19694638556693236,0.04,8.55,slippery
+Expected SARSA,10,1800,15452,0.18,0.38612291966536916,0.18,11.38,slippery
+Expected SARSA,10,2000,17302,0.15,0.3588702812826367,0.15,15.66,slippery
+Expected SARSA,10,2200,19327,0.31,0.4648231987117317,0.31,21.59,slippery
+Expected SARSA,10,2400,21592,0.42,0.49604496374885826,0.42,25.88,slippery
+Expected SARSA,10,2600,23932,0.29,0.45604802157206864,0.29,21.37,slippery
+Expected SARSA,10,2800,26406,0.36,0.48241815132442184,0.36,30.31,slippery
+Expected SARSA,10,3000,29197,0.16,0.3684529491774707,0.16,24.7,slippery
+Expected SARSA,10,3200,32035,0.34,0.47609522856952335,0.34,25.68,slippery
+Expected SARSA,10,3400,35528,0.38,0.48783173121456336,0.38,34.55,slippery
+Expected SARSA,10,3600,39083,0.24,0.4292346959909279,0.24,24.41,slippery
+Expected SARSA,10,3800,43073,0.47,0.5016135580465918,0.47,30.93,slippery
+Expected SARSA,10,4000,48829,0.57,0.497569851956243,0.57,33.88,slippery
+Expected SARSA,10,4200,56249,0.61,0.4902071300001973,0.61,41.09,slippery
+Expected SARSA,10,4400,60910,0.1,0.30151134457776363,0.1,16.2,slippery
+Expected SARSA,10,4600,67675,0.56,0.49888765156985887,0.56,38.47,slippery
+Expected SARSA,10,4800,75038,0.73,0.44619604333847374,0.73,43.34,slippery
+Expected SARSA,10,5000,82848,0.76,0.42923469599092784,0.76,43.91,slippery
+Expected SARSA,11,1,3,0.03,0.1714466079977653,0.03,6.63,slippery
+Expected SARSA,11,200,1454,0.18,0.38612291966536916,0.18,22.51,slippery
+Expected SARSA,11,400,3049,0.03,0.1714466079977653,0.03,9.76,slippery
+Expected SARSA,11,600,4740,0.08,0.2726599243442907,0.08,11.74,slippery
+Expected SARSA,11,800,6398,0.2,0.4020151261036849,0.2,29.0,slippery
+Expected SARSA,11,1000,8043,0.06,0.238683256575942,0.06,11.11,slippery
+Expected SARSA,11,1200,9772,0.24,0.42923469599092784,0.24,19.86,slippery
+Expected SARSA,11,1400,11552,0.11,0.31446603773522014,0.11,16.45,slippery
+Expected SARSA,11,1600,13398,0.16,0.3684529491774707,0.16,13.11,slippery
+Expected SARSA,11,1800,15311,0.12,0.32659863237109044,0.12,10.6,slippery
+Expected SARSA,11,2000,17443,0.12,0.32659863237109044,0.12,12.53,slippery
+Expected SARSA,11,2200,19797,0.12,0.32659863237109044,0.12,17.67,slippery
+Expected SARSA,11,2400,22094,0.31,0.4648231987117317,0.31,20.65,slippery
+Expected SARSA,11,2600,24560,0.56,0.4988876515698589,0.56,35.36,slippery
+Expected SARSA,11,2800,27199,0.46,0.5009082659620331,0.46,23.14,slippery
+Expected SARSA,11,3000,29717,0.43,0.497569851956243,0.43,27.51,slippery
+Expected SARSA,11,3200,32632,0.42,0.49604496374885826,0.42,30.87,slippery
+Expected SARSA,11,3400,36063,0.4,0.49236596391733095,0.4,26.93,slippery
+Expected SARSA,11,3600,39638,0.2,0.40201512610368484,0.2,15.57,slippery
+Expected SARSA,11,3800,43442,0.5,0.502518907629606,0.5,33.63,slippery
+Expected SARSA,11,4000,49138,0.47,0.5016135580465918,0.47,30.09,slippery
+Expected SARSA,11,4200,57006,0.71,0.4560480215720686,0.71,41.95,slippery
+Expected SARSA,11,4400,63679,0.49,0.5024183937956913,0.49,31.15,slippery
+Expected SARSA,11,4600,70164,0.71,0.4560480215720687,0.71,44.47,slippery
+Expected SARSA,11,4800,76386,0.7,0.4605661864718382,0.7,46.2,slippery
+Expected SARSA,11,5000,83780,0.79,0.40936018074033237,0.79,42.04,slippery
+Expected SARSA,12,1,41,0.02,0.14070529413628965,0.02,8.52,slippery
+Expected SARSA,12,200,1534,0.05,0.21904291355759034,0.05,9.21,slippery
+Expected SARSA,12,400,3125,0.05,0.2190429135575903,0.05,8.1,slippery
+Expected SARSA,12,600,4763,0.14,0.34873508801977704,0.14,15.92,slippery
+Expected SARSA,12,800,6308,0.12,0.32659863237109044,0.12,18.9,slippery
+Expected SARSA,12,1000,8042,0.04,0.19694638556693236,0.04,6.69,slippery
+Expected SARSA,12,1200,9803,0.08,0.2726599243442907,0.08,6.61,slippery
+Expected SARSA,12,1400,11585,0.27,0.4461960433384737,0.27,27.23,slippery
+Expected SARSA,12,1600,13653,0.2,0.40201512610368484,0.2,18.0,slippery
+Expected SARSA,12,1800,15537,0.24,0.42923469599092784,0.24,14.73,slippery
+Expected SARSA,12,2000,17324,0.14,0.348735088019777,0.14,15.94,slippery
+Expected SARSA,12,2200,19415,0.26,0.4408440022768081,0.26,30.92,slippery
+Expected SARSA,12,2400,21659,0.72,0.4512608598542129,0.72,34.82,slippery
+Expected SARSA,12,2600,23968,0.26,0.4408440022768081,0.26,20.36,slippery
+Expected SARSA,12,2800,26556,0.41,0.4943110704237103,0.41,25.03,slippery
+Expected SARSA,12,3000,29206,0.17,0.3775251680686369,0.17,17.99,slippery
+Expected SARSA,12,3200,32124,0.22,0.4163331998932266,0.22,18.63,slippery
+Expected SARSA,12,3400,35380,0.54,0.5009082659620331,0.54,31.9,slippery
+Expected SARSA,12,3600,39316,0.76,0.42923469599092784,0.76,37.76,slippery
+Expected SARSA,12,3800,44259,0.46,0.5009082659620331,0.46,25.2,slippery
+Expected SARSA,12,4000,49256,0.68,0.4688261722621507,0.68,39.25,slippery
+Expected SARSA,12,4200,54875,0.77,0.42295258468165076,0.77,33.15,slippery
+Expected SARSA,12,4400,62061,0.59,0.4943110704237103,0.59,31.98,slippery
+Expected SARSA,12,4600,67290,0.48,0.5021167315686782,0.48,28.25,slippery
+Expected SARSA,12,4800,72952,0.6,0.49236596391733095,0.6,27.99,slippery
+Expected SARSA,12,5000,79041,0.42,0.49604496374885826,0.42,28.34,slippery
+Expected SARSA,13,1,5,0.02,0.14070529413628968,0.02,7.33,slippery
+Expected SARSA,13,200,1423,0.06,0.238683256575942,0.06,8.42,slippery
+Expected SARSA,13,400,3020,0.01,0.09999999999999999,0.01,7.7,slippery
+Expected SARSA,13,600,4486,0.33,0.4725815626252608,0.33,31.05,slippery
+Expected SARSA,13,800,6004,0.15,0.3588702812826367,0.15,17.73,slippery
+Expected SARSA,13,1000,7727,0.09,0.2876234912646614,0.09,13.87,slippery
+Expected SARSA,13,1200,9417,0.16,0.3684529491774707,0.16,17.92,slippery
+Expected SARSA,13,1400,11179,0.09,0.2876234912646614,0.09,9.37,slippery
+Expected SARSA,13,1600,13219,0.14,0.348735088019777,0.14,15.32,slippery
+Expected SARSA,13,1800,15126,0.22,0.4163331998932266,0.22,16.55,slippery
+Expected SARSA,13,2000,16859,0.13,0.3379976689896311,0.13,11.21,slippery
+Expected SARSA,13,2200,18961,0.13,0.33799766898963113,0.13,20.87,slippery
+Expected SARSA,13,2400,21126,0.42,0.49604496374885826,0.42,22.06,slippery
+Expected SARSA,13,2600,23804,0.56,0.4988876515698589,0.56,36.75,slippery
+Expected SARSA,13,2800,26488,0.56,0.49888765156985887,0.56,33.04,slippery
+Expected SARSA,13,3000,29377,0.35,0.4793724854411022,0.35,31.93,slippery
+Expected SARSA,13,3200,32376,0.21,0.40936018074033237,0.21,17.95,slippery
+Expected SARSA,13,3400,35812,0.75,0.4351941398892446,0.75,37.44,slippery
+Expected SARSA,13,3600,39933,0.72,0.4512608598542128,0.72,41.93,slippery
+Expected SARSA,13,3800,44313,0.52,0.5021167315686782,0.52,38.47,slippery
+Expected SARSA,13,4000,49944,0.7,0.4605661864718382,0.7,39.48,slippery
+Expected SARSA,13,4200,56866,0.72,0.4512608598542128,0.72,40.57,slippery
+Expected SARSA,13,4400,63322,0.74,0.4408440022768081,0.74,37.56,slippery
+Expected SARSA,13,4600,67881,0.54,0.5009082659620331,0.54,30.52,slippery
+Expected SARSA,13,4800,73491,0.44,0.4988876515698589,0.44,26.24,slippery
+Expected SARSA,13,5000,80064,0.5,0.502518907629606,0.5,33.74,slippery
+Expected SARSA,14,1,11,0.01,0.09999999999999999,0.01,7.9,slippery
+Expected SARSA,14,200,1585,0.34,0.4760952285695233,0.34,33.32,slippery
+Expected SARSA,14,400,3023,0.09,0.2876234912646614,0.09,9.77,slippery
+Expected SARSA,14,600,4654,0.13,0.3379976689896311,0.13,9.72,slippery
+Expected SARSA,14,800,6128,0.27,0.4461960433384737,0.27,22.77,slippery
+Expected SARSA,14,1000,7819,0.14,0.348735088019777,0.14,13.52,slippery
+Expected SARSA,14,1200,9557,0.13,0.33799766898963113,0.13,12.79,slippery
+Expected SARSA,14,1400,11337,0.17,0.3775251680686369,0.17,14.12,slippery
+Expected SARSA,14,1600,13186,0.12,0.3265986323710904,0.12,13.28,slippery
+Expected SARSA,14,1800,15229,0.21,0.40936018074033237,0.21,23.51,slippery
+Expected SARSA,14,2000,17298,0.21,0.40936018074033237,0.21,22.44,slippery
+Expected SARSA,14,2200,19221,0.26,0.44084400227680803,0.26,26.16,slippery
+Expected SARSA,14,2400,21411,0.28,0.4512608598542129,0.28,26.4,slippery
+Expected SARSA,14,2600,23765,0.23,0.42295258468165076,0.23,22.2,slippery
+Expected SARSA,14,2800,26335,0.41,0.49431107042371025,0.41,30.3,slippery
+Expected SARSA,14,3000,29216,0.26,0.44084400227680803,0.26,26.1,slippery
+Expected SARSA,14,3200,31992,0.13,0.3379976689896311,0.13,18.11,slippery
+Expected SARSA,14,3400,35200,0.42,0.49604496374885826,0.42,32.58,slippery
+Expected SARSA,14,3600,39034,0.67,0.47258156262526085,0.67,38.43,slippery
+Expected SARSA,14,3800,43403,0.4,0.49236596391733095,0.4,28.23,slippery
+Expected SARSA,14,4000,48248,0.36,0.4824181513244218,0.36,22.49,slippery
+Expected SARSA,14,4200,54485,0.7,0.4605661864718382,0.7,38.8,slippery
+Expected SARSA,14,4400,60134,0.56,0.4988876515698589,0.56,44.67,slippery
+Expected SARSA,14,4600,67983,0.67,0.47258156262526074,0.67,44.84,slippery
+Expected SARSA,14,4800,75549,0.16,0.3684529491774706,0.16,14.82,slippery
+Expected SARSA,14,5000,82194,0.7,0.4605661864718383,0.7,40.93,slippery
+Expected SARSA,15,1,2,0.02,0.14070529413628968,0.02,7.36,slippery
+Expected SARSA,15,200,1629,0.06,0.23868325657594203,0.06,5.75,slippery
+Expected SARSA,15,400,3241,0.05,0.2190429135575903,0.05,6.73,slippery
+Expected SARSA,15,600,4903,0.2,0.4020151261036849,0.2,14.9,slippery
+Expected SARSA,15,800,6437,0.09,0.2876234912646614,0.09,7.86,slippery
+Expected SARSA,15,1000,8036,0.07,0.2564323999762428,0.07,13.15,slippery
+Expected SARSA,15,1200,9757,0.48,0.5021167315686782,0.48,32.64,slippery
+Expected SARSA,15,1400,11596,0.22,0.41633319989322654,0.22,25.4,slippery
+Expected SARSA,15,1600,13484,0.24,0.42923469599092784,0.24,20.41,slippery
+Expected SARSA,15,1800,15509,0.18,0.38612291966536916,0.18,11.76,slippery
+Expected SARSA,15,2000,17471,0.19,0.3942772444036626,0.19,21.36,slippery
+Expected SARSA,15,2200,19495,0.3,0.4605661864718382,0.3,23.03,slippery
+Expected SARSA,15,2400,21932,0.21,0.40936018074033237,0.21,19.07,slippery
+Expected SARSA,15,2600,24392,0.7,0.4605661864718382,0.7,38.73,slippery
+Expected SARSA,15,2800,27241,0.11,0.31446603773522014,0.11,11.77,slippery
+Expected SARSA,15,3000,29955,0.76,0.42923469599092784,0.76,43.21,slippery
+Expected SARSA,15,3200,33154,0.54,0.5009082659620331,0.54,35.99,slippery
+Expected SARSA,15,3400,36232,0.17,0.3775251680686369,0.17,13.13,slippery
+Expected SARSA,15,3600,40280,0.32,0.4688261722621506,0.32,19.38,slippery
+Expected SARSA,15,3800,44372,0.65,0.4793724854411022,0.65,33.49,slippery
+Expected SARSA,15,4000,49682,0.11,0.3144660377352202,0.11,7.9,slippery
+Expected SARSA,15,4200,54737,0.45,0.5,0.45,23.43,slippery
+Expected SARSA,15,4400,60963,0.38,0.48783173121456336,0.38,27.16,slippery
+Expected SARSA,15,4600,67084,0.7,0.4605661864718382,0.7,42.1,slippery
+Expected SARSA,15,4800,74441,0.72,0.4512608598542128,0.72,35.8,slippery
+Expected SARSA,15,5000,81961,0.65,0.4793724854411022,0.65,37.03,slippery
+Expected SARSA,16,1,4,0.01,0.09999999999999999,0.01,7.13,slippery
+Expected SARSA,16,200,1587,0.08,0.2726599243442907,0.08,13.07,slippery
+Expected SARSA,16,400,3150,0.02,0.14070529413628968,0.02,8.73,slippery
+Expected SARSA,16,600,4534,0.19,0.3942772444036625,0.19,29.58,slippery
+Expected SARSA,16,800,6206,0.26,0.4408440022768081,0.26,24.38,slippery
+Expected SARSA,16,1000,7788,0.04,0.1969463855669324,0.04,6.37,slippery
+Expected SARSA,16,1200,9449,0.03,0.17144660799776532,0.03,8.38,slippery
+Expected SARSA,16,1400,11289,0.11,0.3144660377352202,0.11,13.5,slippery
+Expected SARSA,16,1600,13095,0.13,0.33799766898963113,0.13,11.21,slippery
+Expected SARSA,16,1800,15171,0.08,0.2726599243442907,0.08,9.89,slippery
+Expected SARSA,16,2000,17005,0.42,0.49604496374885826,0.42,27.85,slippery
+Expected SARSA,16,2200,19058,0.35,0.4793724854411022,0.35,26.22,slippery
+Expected SARSA,16,2400,21241,0.09,0.2876234912646614,0.09,10.19,slippery
+Expected SARSA,16,2600,23547,0.11,0.31446603773522014,0.11,10.55,slippery
+Expected SARSA,16,2800,26152,0.37,0.48523658709390977,0.37,23.1,slippery
+Expected SARSA,16,3000,29124,0.5,0.502518907629606,0.5,30.45,slippery
+Expected SARSA,16,3200,31989,0.46,0.5009082659620331,0.46,31.27,slippery
+Expected SARSA,16,3400,35204,0.49,0.5024183937956914,0.49,32.05,slippery
+Expected SARSA,16,3600,39409,0.23,0.42295258468165076,0.23,13.01,slippery
+Expected SARSA,16,3800,43328,0.43,0.497569851956243,0.43,27.88,slippery
+Expected SARSA,16,4000,48148,0.47,0.5016135580465918,0.47,25.13,slippery
+Expected SARSA,16,4200,53801,0.71,0.45604802157206864,0.71,41.43,slippery
+Expected SARSA,16,4400,61197,0.83,0.3775251680686369,0.83,41.72,slippery
+Expected SARSA,16,4600,67939,0.5,0.502518907629606,0.5,29.12,slippery
+Expected SARSA,16,4800,74502,0.58,0.49604496374885826,0.58,38.66,slippery
+Expected SARSA,16,5000,81893,0.27,0.4461960433384737,0.27,23.51,slippery
+Expected SARSA,17,1,3,0.02,0.14070529413628968,0.02,7.95,slippery
+Expected SARSA,17,200,1523,0.03,0.1714466079977653,0.03,7.13,slippery
+Expected SARSA,17,400,3013,0.05,0.2190429135575903,0.05,8.17,slippery
+Expected SARSA,17,600,4487,0.03,0.1714466079977653,0.03,6.01,slippery
+Expected SARSA,17,800,6186,0.05,0.2190429135575903,0.05,7.75,slippery
+Expected SARSA,17,1000,7918,0.03,0.1714466079977653,0.03,9.54,slippery
+Expected SARSA,17,1200,9695,0.14,0.348735088019777,0.14,17.16,slippery
+Expected SARSA,17,1400,11500,0.11,0.3144660377352202,0.11,16.42,slippery
+Expected SARSA,17,1600,13289,0.22,0.4163331998932266,0.22,21.04,slippery
+Expected SARSA,17,1800,15253,0.13,0.33799766898963113,0.13,10.86,slippery
+Expected SARSA,17,2000,17188,0.08,0.2726599243442907,0.08,10.32,slippery
+Expected SARSA,17,2200,19186,0.21,0.40936018074033237,0.21,18.44,slippery
+Expected SARSA,17,2400,21437,0.26,0.44084400227680803,0.26,21.08,slippery
+Expected SARSA,17,2600,23935,0.17,0.3775251680686369,0.17,14.26,slippery
+Expected SARSA,17,2800,26451,0.31,0.46482319871173167,0.31,30.67,slippery
+Expected SARSA,17,3000,29340,0.19,0.3942772444036625,0.19,16.2,slippery
+Expected SARSA,17,3200,32392,0.44,0.4988876515698589,0.44,29.75,slippery
+Expected SARSA,17,3400,36358,0.41,0.4943110704237103,0.41,25.95,slippery
+Expected SARSA,17,3600,40315,0.43,0.497569851956243,0.43,32.18,slippery
+Expected SARSA,17,3800,44765,0.51,0.5024183937956913,0.51,30.86,slippery
+Expected SARSA,17,4000,49967,0.24,0.42923469599092784,0.24,24.07,slippery
+Expected SARSA,17,4200,56591,0.57,0.497569851956243,0.57,41.44,slippery
+Expected SARSA,17,4400,63074,0.61,0.4902071300001973,0.61,33.64,slippery
+Expected SARSA,17,4600,69086,0.6,0.49236596391733095,0.6,35.32,slippery
+Expected SARSA,17,4800,75371,0.45,0.5000000000000001,0.45,29.12,slippery
+Expected SARSA,17,5000,82707,0.72,0.4512608598542128,0.72,38.8,slippery
+Expected SARSA,18,1,17,0.02,0.14070529413628968,0.02,7.77,slippery
+Expected SARSA,18,200,1571,0.01,0.09999999999999999,0.01,6.68,slippery
+Expected SARSA,18,400,3136,0.09,0.28762349126466136,0.09,9.4,slippery
+Expected SARSA,18,600,4679,0.02,0.14070529413628968,0.02,6.25,slippery
+Expected SARSA,18,800,6366,0.15,0.3588702812826367,0.15,16.51,slippery
+Expected SARSA,18,1000,7869,0.09,0.2876234912646614,0.09,12.95,slippery
+Expected SARSA,18,1200,9603,0.17,0.3775251680686369,0.17,10.74,slippery
+Expected SARSA,18,1400,11296,0.18,0.38612291966536916,0.18,12.97,slippery
+Expected SARSA,18,1600,13205,0.15,0.3588702812826367,0.15,12.37,slippery
+Expected SARSA,18,1800,15198,0.09,0.28762349126466136,0.09,9.15,slippery
+Expected SARSA,18,2000,17184,0.5,0.502518907629606,0.5,35.88,slippery
+Expected SARSA,18,2200,19406,0.25,0.4351941398892446,0.25,40.14,slippery
+Expected SARSA,18,2400,21763,0.44,0.4988876515698589,0.44,27.32,slippery
+Expected SARSA,18,2600,24248,0.54,0.5009082659620331,0.54,39.24,slippery
+Expected SARSA,18,2800,27116,0.4,0.49236596391733095,0.4,30.21,slippery
+Expected SARSA,18,3000,30104,0.51,0.5024183937956913,0.51,27.75,slippery
+Expected SARSA,18,3200,33224,0.16,0.3684529491774707,0.16,18.95,slippery
+Expected SARSA,18,3400,36072,0.24,0.42923469599092784,0.24,17.95,slippery
+Expected SARSA,18,3600,39234,0.3,0.4605661864718382,0.3,22.64,slippery
+Expected SARSA,18,3800,43757,0.55,0.5,0.55,38.26,slippery
+Expected SARSA,18,4000,50275,0.78,0.4163331998932266,0.78,37.1,slippery
+Expected SARSA,18,4200,56698,0.33,0.4725815626252608,0.33,28.65,slippery
+Expected SARSA,18,4400,62618,0.47,0.5016135580465918,0.47,27.6,slippery
+Expected SARSA,18,4600,67847,0.38,0.4878317312145634,0.38,27.05,slippery
+Expected SARSA,18,4800,73706,0.53,0.5016135580465918,0.53,27.37,slippery
+Expected SARSA,18,5000,79077,0.54,0.5009082659620331,0.54,31.54,slippery
+Expected SARSA,19,1,3,0.01,0.09999999999999999,0.01,6.83,slippery
+Expected SARSA,19,200,1569,0.04,0.19694638556693236,0.04,5.31,slippery
+Expected SARSA,19,400,3091,0.1,0.30151134457776363,0.1,7.16,slippery
+Expected SARSA,19,600,4714,0.04,0.19694638556693236,0.04,6.45,slippery
+Expected SARSA,19,800,6404,0.24,0.42923469599092784,0.24,32.76,slippery
+Expected SARSA,19,1000,8067,0.05,0.2190429135575903,0.05,13.33,slippery
+Expected SARSA,19,1200,9971,0.08,0.27265992434429076,0.08,13.85,slippery
+Expected SARSA,19,1400,11698,0.04,0.19694638556693236,0.04,10.86,slippery
+Expected SARSA,19,1600,13495,0.1,0.30151134457776363,0.1,10.63,slippery
+Expected SARSA,19,1800,15352,0.3,0.4605661864718382,0.3,32.47,slippery
+Expected SARSA,19,2000,17447,0.11,0.3144660377352202,0.11,16.02,slippery
+Expected SARSA,19,2200,19951,0.2,0.40201512610368484,0.2,20.74,slippery
+Expected SARSA,19,2400,22541,0.14,0.34873508801977704,0.14,10.18,slippery
+Expected SARSA,19,2600,25203,0.61,0.4902071300001973,0.61,33.61,slippery
+Expected SARSA,19,2800,27858,0.44,0.4988876515698589,0.44,34.51,slippery
+Expected SARSA,19,3000,30974,0.54,0.5009082659620331,0.54,45.62,slippery
+Expected SARSA,19,3200,34444,0.41,0.4943110704237103,0.41,27.6,slippery
+Expected SARSA,19,3400,38417,0.09,0.2876234912646614,0.09,7.13,slippery
+Expected SARSA,19,3600,42906,0.43,0.497569851956243,0.43,30.17,slippery
+Expected SARSA,19,3800,47605,0.37,0.4852365870939097,0.37,24.65,slippery
+Expected SARSA,19,4000,52580,0.64,0.4824181513244218,0.64,45.74,slippery
+Expected SARSA,19,4200,59668,0.66,0.47609522856952335,0.66,37.33,slippery
+Expected SARSA,19,4400,65728,0.41,0.4943110704237103,0.41,31.1,slippery
+Expected SARSA,19,4600,72409,0.46,0.5009082659620331,0.46,31.03,slippery
+Expected SARSA,19,4800,79285,0.78,0.4163331998932266,0.78,40.68,slippery
+Expected SARSA,19,5000,85326,0.69,0.4648231987117317,0.69,41.8,slippery
+Expected SARSA,20,1,8,0.0,0.0,0.0,7.6,slippery
+Expected SARSA,20,200,1580,0.09,0.2876234912646614,0.09,10.75,slippery
+Expected SARSA,20,400,3075,0.12,0.3265986323710904,0.12,15.99,slippery
+Expected SARSA,20,600,4552,0.1,0.30151134457776363,0.1,11.92,slippery
+Expected SARSA,20,800,6102,0.18,0.38612291966536916,0.18,22.83,slippery
+Expected SARSA,20,1000,7633,0.03,0.1714466079977653,0.03,9.74,slippery
+Expected SARSA,20,1200,9393,0.09,0.2876234912646614,0.09,6.19,slippery
+Expected SARSA,20,1400,11292,0.22,0.4163331998932266,0.22,23.33,slippery
+Expected SARSA,20,1600,13324,0.35,0.4793724854411023,0.35,24.79,slippery
+Expected SARSA,20,1800,15273,0.37,0.48523658709390977,0.37,27.67,slippery
+Expected SARSA,20,2000,17327,0.29,0.45604802157206864,0.29,27.75,slippery
+Expected SARSA,20,2200,19722,0.6,0.49236596391733095,0.6,42.47,slippery
+Expected SARSA,20,2400,21547,0.52,0.5021167315686782,0.52,37.82,slippery
+Expected SARSA,20,2600,23950,0.13,0.3379976689896311,0.13,22.66,slippery
+Expected SARSA,20,2800,26404,0.31,0.4648231987117317,0.31,26.77,slippery
+Expected SARSA,20,3000,29394,0.02,0.14070529413628968,0.02,12.34,slippery
+Expected SARSA,20,3200,32251,0.45,0.5,0.45,35.12,slippery
+Expected SARSA,20,3400,35972,0.74,0.44084400227680803,0.74,39.85,slippery
+Expected SARSA,20,3600,39933,0.38,0.4878317312145634,0.38,23.72,slippery
+Expected SARSA,20,3800,43838,0.26,0.44084400227680803,0.26,24.53,slippery
+Expected SARSA,20,4000,48267,0.5,0.502518907629606,0.5,34.7,slippery
+Expected SARSA,20,4200,55057,0.73,0.44619604333847374,0.73,40.92,slippery
+Expected SARSA,20,4400,60817,0.56,0.4988876515698589,0.56,29.51,slippery
+Expected SARSA,20,4600,68016,0.75,0.4351941398892446,0.75,36.67,slippery
+Expected SARSA,20,4800,74490,0.54,0.5009082659620331,0.54,29.4,slippery
+Expected SARSA,20,5000,80226,0.42,0.49604496374885826,0.42,29.61,slippery
+Expected SARSA,21,1,8,0.01,0.09999999999999999,0.01,8.23,slippery
+Expected SARSA,21,200,1574,0.21,0.40936018074033237,0.21,11.92,slippery
+Expected SARSA,21,400,3066,0.08,0.2726599243442907,0.08,5.73,slippery
+Expected SARSA,21,600,4662,0.02,0.14070529413628968,0.02,12.67,slippery
+Expected SARSA,21,800,6212,0.03,0.17144660799776532,0.03,7.94,slippery
+Expected SARSA,21,1000,7893,0.08,0.27265992434429076,0.08,15.78,slippery
+Expected SARSA,21,1200,9577,0.17,0.3775251680686369,0.17,23.39,slippery
+Expected SARSA,21,1400,11198,0.08,0.2726599243442907,0.08,15.02,slippery
+Expected SARSA,21,1600,13028,0.13,0.3379976689896311,0.13,15.63,slippery
+Expected SARSA,21,1800,15049,0.05,0.2190429135575903,0.05,6.68,slippery
+Expected SARSA,21,2000,17045,0.37,0.4852365870939097,0.37,29.53,slippery
+Expected SARSA,21,2200,19302,0.29,0.4560480215720686,0.29,29.14,slippery
+Expected SARSA,21,2400,21797,0.31,0.46482319871173167,0.31,24.47,slippery
+Expected SARSA,21,2600,24546,0.19,0.3942772444036625,0.19,12.89,slippery
+Expected SARSA,21,2800,27107,0.4,0.49236596391733095,0.4,29.86,slippery
+Expected SARSA,21,3000,29442,0.17,0.3775251680686369,0.17,21.08,slippery
+Expected SARSA,21,3200,32734,0.7,0.4605661864718383,0.7,43.66,slippery
+Expected SARSA,21,3400,36049,0.44,0.4988876515698589,0.44,26.52,slippery
+Expected SARSA,21,3600,39312,0.4,0.49236596391733095,0.4,26.8,slippery
+Expected SARSA,21,3800,43715,0.53,0.5016135580465918,0.53,26.06,slippery
+Expected SARSA,21,4000,50082,0.52,0.5021167315686782,0.52,27.74,slippery
+Expected SARSA,21,4200,55429,0.71,0.45604802157206864,0.71,40.06,slippery
+Expected SARSA,21,4400,62811,0.53,0.5016135580465918,0.53,28.43,slippery
+Expected SARSA,21,4600,68364,0.2,0.4020151261036849,0.2,13.57,slippery
+Expected SARSA,21,4800,74226,0.55,0.49999999999999994,0.55,31.22,slippery
+Expected SARSA,21,5000,80156,0.5,0.502518907629606,0.5,29.4,slippery
+Expected SARSA,22,1,6,0.01,0.09999999999999999,0.01,7.71,slippery
+Expected SARSA,22,200,1592,0.04,0.19694638556693236,0.04,10.47,slippery
+Expected SARSA,22,400,3158,0.15,0.3588702812826367,0.15,14.76,slippery
+Expected SARSA,22,600,4917,0.07,0.2564323999762428,0.07,14.52,slippery
+Expected SARSA,22,800,6456,0.06,0.23868325657594197,0.06,9.72,slippery
+Expected SARSA,22,1000,8199,0.14,0.34873508801977704,0.14,13.46,slippery
+Expected SARSA,22,1200,9906,0.16,0.3684529491774706,0.16,29.55,slippery
+Expected SARSA,22,1400,11738,0.41,0.49431107042371025,0.41,28.37,slippery
+Expected SARSA,22,1600,13783,0.25,0.4351941398892446,0.25,21.53,slippery
+Expected SARSA,22,1800,15683,0.18,0.38612291966536916,0.18,15.01,slippery
+Expected SARSA,22,2000,17733,0.13,0.3379976689896311,0.13,13.76,slippery
+Expected SARSA,22,2200,19721,0.16,0.3684529491774707,0.16,13.5,slippery
+Expected SARSA,22,2400,21819,0.22,0.41633319989322654,0.22,23.87,slippery
+Expected SARSA,22,2600,24167,0.15,0.3588702812826367,0.15,14.34,slippery
+Expected SARSA,22,2800,26739,0.32,0.4688261722621506,0.32,32.03,slippery
+Expected SARSA,22,3000,29823,0.39,0.4902071300001973,0.39,27.51,slippery
+Expected SARSA,22,3200,33055,0.53,0.5016135580465918,0.53,37.69,slippery
+Expected SARSA,22,3400,36336,0.14,0.348735088019777,0.14,12.81,slippery
+Expected SARSA,22,3600,39912,0.47,0.5016135580465918,0.47,36.43,slippery
+Expected SARSA,22,3800,44051,0.23,0.4229525846816507,0.23,25.42,slippery
+Expected SARSA,22,4000,49083,0.44,0.4988876515698589,0.44,30.59,slippery
+Expected SARSA,22,4200,56249,0.71,0.45604802157206864,0.71,39.85,slippery
+Expected SARSA,22,4400,63512,0.71,0.4560480215720687,0.71,36.11,slippery
+Expected SARSA,22,4600,70334,0.77,0.4229525846816507,0.77,40.63,slippery
+Expected SARSA,22,4800,77040,0.75,0.4351941398892446,0.75,44.28,slippery
+Expected SARSA,22,5000,83115,0.49,0.5024183937956913,0.49,33.09,slippery
+Expected SARSA,23,1,9,0.03,0.1714466079977653,0.03,7.44,slippery
+Expected SARSA,23,200,1617,0.07,0.2564323999762428,0.07,9.26,slippery
+Expected SARSA,23,400,3349,0.14,0.348735088019777,0.14,12.76,slippery
+Expected SARSA,23,600,4897,0.08,0.2726599243442907,0.08,7.15,slippery
+Expected SARSA,23,800,6523,0.13,0.33799766898963113,0.13,11.59,slippery
+Expected SARSA,23,1000,8360,0.13,0.3379976689896311,0.13,13.33,slippery
+Expected SARSA,23,1200,10033,0.14,0.348735088019777,0.14,14.43,slippery
+Expected SARSA,23,1400,11822,0.44,0.4988876515698589,0.44,33.33,slippery
+Expected SARSA,23,1600,13542,0.15,0.3588702812826367,0.15,17.33,slippery
+Expected SARSA,23,1800,15328,0.34,0.47609522856952335,0.34,19.26,slippery
+Expected SARSA,23,2000,17300,0.29,0.4560480215720686,0.29,23.34,slippery
+Expected SARSA,23,2200,19719,0.37,0.4852365870939097,0.37,24.3,slippery
+Expected SARSA,23,2400,22092,0.25,0.4351941398892446,0.25,23.82,slippery
+Expected SARSA,23,2600,24684,0.57,0.497569851956243,0.57,37.0,slippery
+Expected SARSA,23,2800,27533,0.53,0.5016135580465918,0.53,34.03,slippery
+Expected SARSA,23,3000,30402,0.37,0.4852365870939097,0.37,28.64,slippery
+Expected SARSA,23,3200,33382,0.42,0.4960449637488583,0.42,31.73,slippery
+Expected SARSA,23,3400,36519,0.2,0.4020151261036849,0.2,13.6,slippery
+Expected SARSA,23,3600,40283,0.42,0.49604496374885826,0.42,29.53,slippery
+Expected SARSA,23,3800,44988,0.58,0.49604496374885826,0.58,36.13,slippery
+Expected SARSA,23,4000,50179,0.51,0.5024183937956914,0.51,30.08,slippery
+Expected SARSA,23,4200,56963,0.65,0.47937248544110217,0.65,42.02,slippery
+Expected SARSA,23,4400,64175,0.22,0.4163331998932266,0.22,31.54,slippery
+Expected SARSA,23,4600,71242,0.24,0.42923469599092784,0.24,20.34,slippery
+Expected SARSA,23,4800,76692,0.36,0.4824181513244218,0.36,29.41,slippery
+Expected SARSA,23,5000,82957,0.46,0.5009082659620331,0.46,29.07,slippery
+Expected SARSA,24,1,8,0.01,0.09999999999999999,0.01,6.92,slippery
+Expected SARSA,24,200,1673,0.04,0.19694638556693236,0.04,12.43,slippery
+Expected SARSA,24,400,3205,0.08,0.2726599243442907,0.08,7.14,slippery
+Expected SARSA,24,600,4794,0.06,0.23868325657594203,0.06,10.98,slippery
+Expected SARSA,24,800,6299,0.12,0.3265986323710904,0.12,15.85,slippery
+Expected SARSA,24,1000,7994,0.2,0.4020151261036849,0.2,21.31,slippery
+Expected SARSA,24,1200,9736,0.11,0.31446603773522014,0.11,12.8,slippery
+Expected SARSA,24,1400,11596,0.37,0.4852365870939097,0.37,29.45,slippery
+Expected SARSA,24,1600,13563,0.53,0.5016135580465918,0.53,30.69,slippery
+Expected SARSA,24,1800,15639,0.16,0.3684529491774707,0.16,18.6,slippery
+Expected SARSA,24,2000,17852,0.28,0.4512608598542129,0.28,22.16,slippery
+Expected SARSA,24,2200,19749,0.22,0.4163331998932266,0.22,16.1,slippery
+Expected SARSA,24,2400,22123,0.1,0.30151134457776363,0.1,9.84,slippery
+Expected SARSA,24,2600,24484,0.46,0.5009082659620331,0.46,34.66,slippery
+Expected SARSA,24,2800,27166,0.4,0.49236596391733095,0.4,32.79,slippery
+Expected SARSA,24,3000,30184,0.08,0.2726599243442907,0.08,8.27,slippery
+Expected SARSA,24,3200,32946,0.5,0.502518907629606,0.5,30.91,slippery
+Expected SARSA,24,3400,36671,0.28,0.4512608598542129,0.28,28.02,slippery
+Expected SARSA,24,3600,40692,0.23,0.42295258468165065,0.23,14.9,slippery
+Expected SARSA,24,3800,45710,0.52,0.5021167315686782,0.52,34.32,slippery
+Expected SARSA,24,4000,50557,0.43,0.497569851956243,0.43,27.28,slippery
+Expected SARSA,24,4200,55967,0.32,0.4688261722621506,0.32,27.83,slippery
+Expected SARSA,24,4400,63936,0.42,0.4960449637488583,0.42,29.5,slippery
+Expected SARSA,24,4600,69403,0.45,0.5,0.45,31.01,slippery
+Expected SARSA,24,4800,76569,0.7,0.4605661864718382,0.7,41.29,slippery
+Expected SARSA,24,5000,83081,0.58,0.49604496374885826,0.58,34.5,slippery
+Expected SARSA,25,1,6,0.01,0.09999999999999999,0.01,8.18,slippery
+Expected SARSA,25,200,1652,0.01,0.09999999999999999,0.01,8.71,slippery
+Expected SARSA,25,400,3174,0.01,0.09999999999999999,0.01,8.09,slippery
+Expected SARSA,25,600,4717,0.02,0.14070529413628965,0.02,5.7,slippery
+Expected SARSA,25,800,6356,0.07,0.2564323999762428,0.07,7.38,slippery
+Expected SARSA,25,1000,7940,0.21,0.40936018074033237,0.21,17.76,slippery
+Expected SARSA,25,1200,9562,0.2,0.4020151261036849,0.2,21.91,slippery
+Expected SARSA,25,1400,11344,0.39,0.4902071300001973,0.39,27.75,slippery
+Expected SARSA,25,1600,13134,0.09,0.2876234912646614,0.09,17.46,slippery
+Expected SARSA,25,1800,15048,0.2,0.4020151261036849,0.2,16.23,slippery
+Expected SARSA,25,2000,16886,0.35,0.4793724854411022,0.35,21.48,slippery
+Expected SARSA,25,2200,18954,0.42,0.49604496374885826,0.42,28.71,slippery
+Expected SARSA,25,2400,21267,0.44,0.4988876515698589,0.44,28.84,slippery
+Expected SARSA,25,2600,23638,0.48,0.5021167315686782,0.48,32.59,slippery
+Expected SARSA,25,2800,26619,0.49,0.5024183937956914,0.49,26.89,slippery
+Expected SARSA,25,3000,29838,0.67,0.47258156262526074,0.67,36.46,slippery
+Expected SARSA,25,3200,33317,0.21,0.40936018074033237,0.21,18.69,slippery
+Expected SARSA,25,3400,36554,0.16,0.3684529491774707,0.16,15.15,slippery
+Expected SARSA,25,3600,40524,0.56,0.4988876515698589,0.56,33.46,slippery
+Expected SARSA,25,3800,44920,0.62,0.4878317312145634,0.62,31.79,slippery
+Expected SARSA,25,4000,51524,0.62,0.4878317312145633,0.62,38.43,slippery
+Expected SARSA,25,4200,59200,0.69,0.46482319871173167,0.69,43.0,slippery
+Expected SARSA,25,4400,67223,0.64,0.4824181513244218,0.64,36.69,slippery
+Expected SARSA,25,4600,74513,0.75,0.4351941398892446,0.75,38.82,slippery
+Expected SARSA,25,4800,82286,0.46,0.5009082659620331,0.46,27.93,slippery
+Expected SARSA,25,5000,87551,0.49,0.5024183937956913,0.49,34.33,slippery
+Expected SARSA,26,1,9,0.03,0.1714466079977653,0.03,6.85,slippery
+Expected SARSA,26,200,1535,0.06,0.23868325657594197,0.06,8.01,slippery
+Expected SARSA,26,400,3007,0.08,0.2726599243442907,0.08,10.05,slippery
+Expected SARSA,26,600,4509,0.09,0.2876234912646614,0.09,6.89,slippery
+Expected SARSA,26,800,6039,0.1,0.30151134457776363,0.1,15.04,slippery
+Expected SARSA,26,1000,7550,0.05,0.21904291355759034,0.05,5.53,slippery
+Expected SARSA,26,1200,9198,0.19,0.3942772444036625,0.19,12.92,slippery
+Expected SARSA,26,1400,10942,0.04,0.19694638556693236,0.04,8.65,slippery
+Expected SARSA,26,1600,12732,0.2,0.40201512610368484,0.2,22.55,slippery
+Expected SARSA,26,1800,14752,0.12,0.3265986323710904,0.12,8.34,slippery
+Expected SARSA,26,2000,16835,0.07,0.2564323999762428,0.07,7.03,slippery
+Expected SARSA,26,2200,19023,0.59,0.4943110704237103,0.59,33.19,slippery
+Expected SARSA,26,2400,21128,0.11,0.3144660377352202,0.11,17.0,slippery
+Expected SARSA,26,2600,23613,0.47,0.5016135580465918,0.47,33.98,slippery
+Expected SARSA,26,2800,26377,0.3,0.4605661864718382,0.3,21.91,slippery
+Expected SARSA,26,3000,29367,0.38,0.4878317312145634,0.38,28.76,slippery
+Expected SARSA,26,3200,32270,0.27,0.4461960433384737,0.27,14.57,slippery
+Expected SARSA,26,3400,35486,0.52,0.5021167315686782,0.52,44.88,slippery
+Expected SARSA,26,3600,39461,0.31,0.4648231987117316,0.31,17.16,slippery
+Expected SARSA,26,3800,44109,0.73,0.4461960433384737,0.73,37.94,slippery
+Expected SARSA,26,4000,49642,0.66,0.47609522856952335,0.66,37.95,slippery
+Expected SARSA,26,4200,56394,0.76,0.42923469599092784,0.76,40.57,slippery
+Expected SARSA,26,4400,63800,0.51,0.5024183937956914,0.51,33.92,slippery
+Expected SARSA,26,4600,70272,0.54,0.5009082659620331,0.54,41.84,slippery
+Expected SARSA,26,4800,77040,0.79,0.40936018074033237,0.79,42.63,slippery
+Expected SARSA,26,5000,83600,0.25,0.4351941398892446,0.25,20.87,slippery
+Expected SARSA,27,1,19,0.02,0.14070529413628968,0.02,7.98,slippery
+Expected SARSA,27,200,1587,0.06,0.238683256575942,0.06,6.81,slippery
+Expected SARSA,27,400,3033,0.02,0.14070529413628965,0.02,6.94,slippery
+Expected SARSA,27,600,4722,0.5,0.502518907629606,0.5,38.99,slippery
+Expected SARSA,27,800,6250,0.06,0.238683256575942,0.06,7.8,slippery
+Expected SARSA,27,1000,7838,0.16,0.3684529491774706,0.16,9.95,slippery
+Expected SARSA,27,1200,9571,0.24,0.4292346959909279,0.24,14.08,slippery
+Expected SARSA,27,1400,11369,0.74,0.44084400227680803,0.74,41.96,slippery
+Expected SARSA,27,1600,13282,0.17,0.3775251680686369,0.17,11.09,slippery
+Expected SARSA,27,1800,15033,0.04,0.19694638556693236,0.04,8.2,slippery
+Expected SARSA,27,2000,16884,0.33,0.4725815626252608,0.33,24.06,slippery
+Expected SARSA,27,2200,18972,0.09,0.2876234912646614,0.09,7.2,slippery
+Expected SARSA,27,2400,21243,0.22,0.41633319989322654,0.22,15.32,slippery
+Expected SARSA,27,2600,23479,0.57,0.497569851956243,0.57,45.17,slippery
+Expected SARSA,27,2800,26224,0.17,0.3775251680686369,0.17,10.55,slippery
+Expected SARSA,27,3000,29292,0.11,0.31446603773522014,0.11,12.69,slippery
+Expected SARSA,27,3200,32025,0.27,0.4461960433384737,0.27,31.69,slippery
+Expected SARSA,27,3400,35966,0.42,0.49604496374885826,0.42,34.69,slippery
+Expected SARSA,27,3600,40311,0.56,0.49888765156985887,0.56,32.76,slippery
+Expected SARSA,27,3800,44765,0.61,0.4902071300001973,0.61,47.34,slippery
+Expected SARSA,27,4000,51081,0.55,0.5,0.55,27.85,slippery
+Expected SARSA,27,4200,56562,0.5,0.502518907629606,0.5,32.13,slippery
+Expected SARSA,27,4400,62664,0.45,0.5000000000000001,0.45,30.1,slippery
+Expected SARSA,27,4600,69039,0.76,0.42923469599092784,0.76,38.21,slippery
+Expected SARSA,27,4800,76306,0.64,0.48241815132442184,0.64,40.5,slippery
+Expected SARSA,27,5000,83221,0.11,0.31446603773522014,0.11,22.17,slippery
+Expected SARSA,28,1,8,0.02,0.14070529413628968,0.02,7.9,slippery
+Expected SARSA,28,200,1469,0.03,0.17144660799776526,0.03,11.94,slippery
+Expected SARSA,28,400,2958,0.05,0.2190429135575903,0.05,7.27,slippery
+Expected SARSA,28,600,4460,0.06,0.23868325657594203,0.06,13.46,slippery
+Expected SARSA,28,800,6110,0.08,0.2726599243442907,0.08,8.38,slippery
+Expected SARSA,28,1000,7631,0.11,0.3144660377352202,0.11,13.26,slippery
+Expected SARSA,28,1200,9427,0.12,0.32659863237109044,0.12,16.24,slippery
+Expected SARSA,28,1400,11170,0.54,0.5009082659620331,0.54,35.99,slippery
+Expected SARSA,28,1600,12946,0.11,0.31446603773522014,0.11,14.13,slippery
+Expected SARSA,28,1800,14641,0.11,0.3144660377352202,0.11,12.75,slippery
+Expected SARSA,28,2000,16950,0.18,0.38612291966536916,0.18,19.88,slippery
+Expected SARSA,28,2200,19141,0.13,0.3379976689896311,0.13,8.97,slippery
+Expected SARSA,28,2400,21512,0.17,0.3775251680686369,0.17,15.8,slippery
+Expected SARSA,28,2600,24064,0.73,0.4461960433384737,0.73,41.56,slippery
+Expected SARSA,28,2800,26736,0.21,0.40936018074033237,0.21,14.41,slippery
+Expected SARSA,28,3000,29485,0.48,0.5021167315686782,0.48,34.88,slippery
+Expected SARSA,28,3200,33074,0.69,0.4648231987117317,0.69,43.83,slippery
+Expected SARSA,28,3400,36556,0.57,0.497569851956243,0.57,35.26,slippery
+Expected SARSA,28,3600,40479,0.12,0.32659863237109044,0.12,16.06,slippery
+Expected SARSA,28,3800,45573,0.74,0.4408440022768081,0.74,42.32,slippery
+Expected SARSA,28,4000,51826,0.69,0.4648231987117317,0.69,42.02,slippery
+Expected SARSA,28,4200,59174,0.74,0.44084400227680803,0.74,43.16,slippery
+Expected SARSA,28,4400,66181,0.65,0.4793724854411022,0.65,40.38,slippery
+Expected SARSA,28,4600,73367,0.62,0.4878317312145634,0.62,39.7,slippery
+Expected SARSA,28,4800,79919,0.24,0.42923469599092784,0.24,20.22,slippery
+Expected SARSA,28,5000,85105,0.79,0.40936018074033237,0.79,41.81,slippery
+Expected SARSA,29,1,13,0.02,0.14070529413628965,0.02,9.43,slippery
+Expected SARSA,29,200,1453,0.01,0.09999999999999999,0.01,7.72,slippery
+Expected SARSA,29,400,3030,0.08,0.27265992434429076,0.08,13.23,slippery
+Expected SARSA,29,600,4639,0.1,0.30151134457776363,0.1,10.04,slippery
+Expected SARSA,29,800,6203,0.1,0.30151134457776363,0.1,13.83,slippery
+Expected SARSA,29,1000,7880,0.15,0.3588702812826367,0.15,17.6,slippery
+Expected SARSA,29,1200,9659,0.06,0.238683256575942,0.06,9.29,slippery
+Expected SARSA,29,1400,11501,0.08,0.27265992434429076,0.08,13.48,slippery
+Expected SARSA,29,1600,13316,0.28,0.45126085985421294,0.28,29.71,slippery
+Expected SARSA,29,1800,15229,0.15,0.35887028128263676,0.15,10.05,slippery
+Expected SARSA,29,2000,17416,0.66,0.47609522856952335,0.66,38.64,slippery
+Expected SARSA,29,2200,19559,0.35,0.4793724854411023,0.35,24.86,slippery
+Expected SARSA,29,2400,21837,0.6,0.49236596391733095,0.6,31.34,slippery
+Expected SARSA,29,2600,24125,0.22,0.4163331998932266,0.22,21.42,slippery
+Expected SARSA,29,2800,26450,0.2,0.40201512610368484,0.2,11.08,slippery
+Expected SARSA,29,3000,29103,0.2,0.4020151261036849,0.2,17.83,slippery
+Expected SARSA,29,3200,32233,0.1,0.30151134457776363,0.1,10.47,slippery
+Expected SARSA,29,3400,35308,0.14,0.348735088019777,0.14,13.09,slippery
+Expected SARSA,29,3600,39005,0.36,0.4824181513244218,0.36,23.71,slippery
+Expected SARSA,29,3800,43353,0.49,0.5024183937956913,0.49,37.44,slippery
+Expected SARSA,29,4000,49999,0.67,0.47258156262526074,0.67,41.54,slippery
+Expected SARSA,29,4200,56543,0.42,0.49604496374885826,0.42,22.94,slippery
+Expected SARSA,29,4400,64079,0.73,0.4461960433384737,0.73,40.17,slippery
+Expected SARSA,29,4600,71180,0.64,0.4824181513244218,0.64,43.62,slippery
+Expected SARSA,29,4800,78623,0.49,0.5024183937956914,0.49,25.86,slippery
+Expected SARSA,29,5000,84504,0.61,0.4902071300001973,0.61,40.95,slippery
