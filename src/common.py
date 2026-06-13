@@ -33,7 +33,7 @@ class Agent(Protocol):
 class TrainConfig:
     episodes: int
     alpha: float = 0.1
-    gamma: float = 0.99
+    gamma: float = 0.9
     epsilon_start: float = 1.0
     epsilon_end: float = 0.01
     epsilon_decay_fraction: float = 0.8
