@@ -1,0 +1,7 @@
+gymnasium[toy-text]==1.2.0
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
+nbformat

@@ -1,0 +1,17 @@
+algorithm,seed,episode,cumulative_steps,eval_return,eval_return_std,eval_success_rate,eval_episode_length,setting
+SARSA,0,1,2,0.0,0.0,0.0,7.78,deterministic
+SARSA,0,30,269,0.02,0.14070529413628968,0.02,7.12,deterministic
+SARSA,1,1,12,0.02,0.14070529413628965,0.02,7.18,deterministic
+SARSA,1,30,261,0.1,0.30151134457776363,0.1,6.56,deterministic
+Expected SARSA,0,1,2,0.0,0.0,0.0,7.78,deterministic
+Expected SARSA,0,30,269,0.02,0.14070529413628968,0.02,7.12,deterministic
+Expected SARSA,1,1,12,0.02,0.14070529413628965,0.02,7.18,deterministic
+Expected SARSA,1,30,261,0.1,0.30151134457776363,0.1,6.56,deterministic
+SARSA,0,1,12,0.01,0.09999999999999999,0.01,7.49,slippery
+SARSA,0,30,296,0.02,0.14070529413628968,0.02,6.83,slippery
+SARSA,1,1,4,0.01,0.09999999999999999,0.01,7.63,slippery
+SARSA,1,30,300,0.01,0.09999999999999999,0.01,7.81,slippery
+Expected SARSA,0,1,12,0.01,0.09999999999999999,0.01,7.49,slippery
+Expected SARSA,0,30,296,0.02,0.14070529413628968,0.02,6.83,slippery
+Expected SARSA,1,1,4,0.01,0.09999999999999999,0.01,7.63,slippery
+Expected SARSA,1,30,300,0.01,0.09999999999999999,0.01,7.81,slippery

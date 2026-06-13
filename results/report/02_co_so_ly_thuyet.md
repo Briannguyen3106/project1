@@ -28,7 +28,7 @@ $$
 G_t=R_{t+1}+\gamma R_{t+2}+\gamma^2R_{t+3}+\cdots.
 $$
 
-Hệ số $\gamma$ điều chỉnh mức quan trọng của phần thưởng tương lai. Khi $\gamma$ gần 0, tác tử ưu tiên phần thưởng tức thời. Khi $\gamma$ gần 1, tác tử xem trọng hệ quả dài hạn hơn. Trong episodic task hữu hạn, $\gamma=1$ có thể hợp lệ; tuy nhiên báo cáo sử dụng $\gamma=0.99$ để nhất quán giữa các môi trường và giữ toán tử Bellman có tính co trong các lập luận discounted setting.
+Hệ số $\gamma$ điều chỉnh mức quan trọng của phần thưởng tương lai. Khi $\gamma$ gần 0, tác tử ưu tiên phần thưởng tức thời. Khi $\gamma$ gần 1, tác tử xem trọng hệ quả dài hạn hơn. Trong episodic task hữu hạn, $\gamma=1$ có thể hợp lệ; tuy nhiên báo cáo sử dụng $\gamma=0.9$ để nhất quán giữa các môi trường và giữ toán tử Bellman có tính co trong các lập luận discounted setting.
 
 ## 2.3. Hàm giá trị trạng thái và hành động
 
